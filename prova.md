@@ -5,4 +5,4 @@ Per superare la frammentazione e le disparità regionali, è necessaria una guid
 
 
 [^1]:L’Agenzia nazionale per i servizi sanitari regionali (AGENAS) è un Ente pubblico non economico di rilievo nazionale, istituito con decreto legislativo del 30 giugno 1993 n.266 e s.m.i., e si configura come organo tecnico-scientifico del SSN svolgendo attività di ricerca e di supporto nei confronti del Ministro della salute, delle Regioni e delle Province autonome di Trento e Bolzano, ai sensi dell’art. 2, comma 357, legge 24 dicembre 2007 n. 244. https://www.agenas.gov.it/agenas/l-agenzia
-[^2]: <img width="1920" height="1080" alt="immagine" src="https://github.com/user-attachments/assets/05894290-0c5c-48d4-b97b-5bc83530455d" />
+[^2]:https://www.agenas.gov.it/comunicazione/primo-piano/2464-piattaforma-nazionale-di-telemedicina-avvio-della-popolazione-dati-con-regioni-pilota
