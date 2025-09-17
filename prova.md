@@ -1,8 +1,9 @@
-#Proposta
-##1. Governance e Coordinamento Centralizzato
+#Proposta#
+##1. Governance e Coordinamento Centralizzato##
 Per superare la frammentazione e le disparità regionali, è necessaria una guida centrale. Proponiamo di rafforzare il ruolo di AGENAS (Agenzia Nazionale per i Servizi Sanitari Regionali)
 [^1] per fungere da hub strategico. AGENAS dovrebbe diventare l'ente responsabile della definizione di standard tecnologici univoci per tutta la nazione e del coordinamento tra Regioni, compito parzialmente svolto con la piattaforma nazionale di telemedicina, ma in maniera frammentaria, non cogente e limitata a quel campo di applicazione [^2]. Nonostante i diversi modelli sanitari regionali, l'interoperabilità dei sistemi deve essere garantita. Un esempio concreto è l'adozione di un'unica architettura per il Fascicolo Sanitario Elettronico (FSE) e la Cartella Clinica Elettronica (CCE), definendo standard minimi di dati da scambiare tra tutte le regioni. Ad AGENAS verrebbe affidato anche il compito di monitorare l'avanzamento dei progetti di sanità digitale in ogni Regione, valutando l'efficacia degli investimenti e l'effettivo utilizzo delle tecnologie. Quindi un rafforzamento di AGENAS la renderebbe una vera cabina di regia con compiti di governance, quindi, indirizzo, coordinamento, controllo e regolazione centralizzati.
 
 
 [^1]:L’Agenzia nazionale per i servizi sanitari regionali (AGENAS) è un Ente pubblico non economico di rilievo nazionale, istituito con decreto legislativo del 30 giugno 1993 n.266 e s.m.i., e si configura come organo tecnico-scientifico del SSN svolgendo attività di ricerca e di supporto nei confronti del Ministro della salute, delle Regioni e delle Province autonome di Trento e Bolzano, ai sensi dell’art. 2, comma 357, legge 24 dicembre 2007 n. 244. https://www.agenas.gov.it/agenas/l-agenzia
 [^2]:https://www.agenas.gov.it/comunicazione/primo-piano/2464-piattaforma-nazionale-di-telemedicina-avvio-della-popolazione-dati-con-regioni-pilota
+
