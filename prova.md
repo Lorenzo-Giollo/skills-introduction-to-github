@@ -41,7 +41,7 @@ La spesa sanitaria sta aumentando [^1] per effetto di una complessa combinazione
 
 ### 4. Altri Fattori:
 * **Medicina difensiva**: I medici possono ordinare test o procedure extra per proteggersi da potenziali cause per negligenza professionale, portando a un aumento dei servizi e dei costi.
-* **Sprechi, frodi e abusi**: Una quantità significativa di spesa sanitaria viene persa ogni anno a causa di pratiche inefficienti, richieste fraudolente e abusi[^4].
+* **Sprechi, frodi e abusi**: Una quantità significativa di spesa sanitaria viene persa ogni anno a causa di pratiche inefficienti, richieste fraudolente e abusi [^4].
   
 La digitalizzazione offre risposte efficaci a tutti questi fattori, come spiegato in dettaglio di seguito.
 
@@ -56,6 +56,9 @@ La digitalizzazione offre risposte efficaci a tutti questi fattori, come spiegat
 
 * La SD permette anche di raccogliere moli di dati immense (Big Data) che possono poi essere utilizzati a fini di ricerca per, ad esempio, la creazione di nuovi farmaci, l’implementazione di nuove tecnologie o campi emergenti (medicina molecolare e personalizzata, medicina rigenerativa, robotica, ecc.).
 
+## Proposta
+### 1. Governance e Coordinamento Centralizzato
+Sebbene per superare la frammentazione e le disparità regionali, si ritenga necessaria una "cabina di regia", non è auspicabile la costituzione di un nuovo ente pubblico, poiché dato che ne esistono attualmente almeno tre, a una prima lettura ridondanti, che si occupano di digitalizzazione del paese: il “Dipartimento per la trasformazione digitale”, AgID e AGENAS [^5]. Mentre auspichiamo una razionalizzazione di queste agenzie, tramite un accorpamento, sic stantibus rebus, proponiamo, per prossimità di dominio, di rafforzare il ruolo di AGENAS che dovrebbe diventare l'ente responsabile, in ambito SD, della definizione di standard tecnologici univoci per tutta la nazione e del coordinamento tra Regioni [^6]. Infatti, nonostante i diversi modelli sanitari regionali, che presuppongono processi affatto differenti tra loro, l'interoperabilità dei sistemi deve essere garantita. Un esempio concreto è l'adozione di un'unica architettura per il Fascicolo Sanitario Elettronico (FSE) e per la Cartella Clinica Elettronica (CCE), che definisca standard minimi di dati da scambiare tra tutte le Regioni [^7]. Ad AGENAS verrebbe affidato anche il compito di monitorare l'avanzamento dei progetti di SD in ogni Regione, valutando l'efficacia degli investimenti e l'effettivo utilizzo delle tecnologie. Ottenere una vera cabina di regia con compiti di governance, quindi, indirizzo, coordinamento, controllo e regolazione centralizzati può risultare da un inquadramento corretto ed eventuale estensione dei compiti di AGENAS.
 
 
 
@@ -73,6 +76,13 @@ La digitalizzazione offre risposte efficaci a tutti questi fattori, come spiegat
 **Spesa sanitaria**: Le malattie croniche sono responsabili di circa l'**80%** della spesa sanitaria totale in Italia, ma dati simili si ritrovano nelle economie avanzate. Le cure e l'assistenza a lungo termine sono onerosi e richiedono un approccio integrato.
 
 [^4]: Esempi di: a) sprechi: sovraccarico di appuntamenti o esami diagnostici, duplicazione di test, prescrizioni di farmaci con prezzi elevati quando sono disponibili alternative equivalenti a minor costo; b) frodi: fatturare servizi mai erogati, falsificare le cartelle cliniche per ottenere rimborsi maggiori; c) abusi: fatturare per un livello di servizio più alto di quello realmente erogato (upcoding), somministrare trattamenti o esami diagnostici inutili, prescrivere farmaci non necessari o in dosi eccessive.
+
+[^5]: **Il Dipartimento per la trasformazione digitale** è la struttura di supporto alla Presidenza del Consiglio dei Ministri per la promozione ed il coordinamento delle azioni del Governo finalizzate alla definizione di una strategia unitaria in materia di trasformazione digitale e di modernizzazione del Paese attraverso le tecnologie digitali. Esso dà attuazione alle direttive del Presidente in materia e assicura il coordinamento e l’esecuzione dei programmi di trasformazione digitale.  https://innovazione.gov.it/  || AgID (Agenzia per l'Italia Digitale) è l'agenzia tecnica della Presidenza del Consiglio che garantisce la realizzazione degli obiettivi dell'Agenda digitale italiana coordinando tutte le Amministrazioni del Paese. Contribuisce anche alla diffusione delle tecnologie dell'informazione e della comunicazione, favorendo l'innovazione e la crescita economica. Infine, promuove le competenze digitali e la loro diffusione, collaborando con istituzioni, organismi internazionali, nazionali e locali. https://www.agid.gov.it/it || AGENAS Agenzia Nazionale per i Servizi Sanitari Regionali L’Agenzia nazionale per i servizi sanitari regionali (AGENAS) è un Ente pubblico non economico di rilievo nazionale, istituito con decreto legislativo del 30 giugno 1993 n.266 e s.m.i., e si configura come organo tecnico-scientifico del SSN svolgendo attività di ricerca e di supporto nei confronti del Ministro della salute, delle Regioni e delle Province autonome di Trento e Bolzano, ai sensi dell’art. 2, comma 357, legge 24 dicembre 2007 n. 244. https://www.agenas.gov.it/agenas/l-agenzia .
+
+[^6]: Compito parzialmente svolto con la piattaforma nazionale di telemedicina, ma in maniera frammentaria, caotica perché in concorrenza con altre procedure pubbliche, non cogente e limitata esclusivamente a quel campo di applicazione.
+
+[^7]: Non solo gli standard tecnici per l'interoperabilità dei dati clinici e amministrativi come ad es. HL7 e le sue declinazioni, per l’imaging, DICOM, per la codifica e la terminologia, SNOMED e ICD, ecc., ma anche il set di informazioni mediche, come ad es. il profilo sanitario, i referti, i verbali di PS, il dossier farmacologico, il taccuino, il consenso privacy, ecc.
+
 
 
 
