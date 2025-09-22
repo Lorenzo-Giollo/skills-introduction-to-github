@@ -30,17 +30,17 @@ __Organizzazione dei servizi__: Il SSN si trova ad affrontare la sfida di passar
 
 __Qualità della vita__: La gestione delle malattie croniche incide pesantemente sulla qualità della vita dei pazienti e delle loro famiglie, richiedendo spesso un supporto costante e un monitoraggio continuo.
 
-### 2. Fattori economici e legati all'offerta:
+#### 2. Fattori economici e legati all'offerta:
 * **Costo elevato di nuove tecnologie e farmaci**: I progressi medici, comprese le nuove tecnologie, attrezzature e farmaci innovativi, possono portare a migliori risultati in termini di salute, ma spesso i costi di ricerca, sviluppo e commercializzazione vengono trasferiti al consumatore (cittadini e pazienti, direttamente o tramite il SSN).
 * **Costi del lavoro**: Il settore sanitario è ad alta intensità di manodopera e una carenza di personale qualificato (ad es. medici, infermieri) può far aumentare i salari (come anche auspicato nel PP relativo al tema), il che a sua volta aumenta i costi operativi per ospedali e altre strutture.
 * **Spese amministrative**: La complessità del sistema sanitario, con i suoi molteplici piani assicurativi, codici di fatturazione e regolamenti, si traduce in significativi oneri amministrativi. Questo carico burocratico contribuisce a costi più elevati.
 
-### 3. Fattori sistemici e di mercato:
+#### 3. Fattori sistemici e di mercato:
 * Il modello __"Fee-for-Service"__ (rimborso per prestazione) remunera le strutture sanitarie e i professionisti in base a un tariffario per ogni singolo servizio erogato, come visite o esami. Questo sistema, applicato in Italia principalmente per prestazioni specialistiche e diagnostiche, può incentivare l'erogazione di un maggior numero di servizi per incrementare i guadagni, potenzialmente portando a costi più alti e trattamenti non strettamente necessari. E’ un tema non centrale attualmente ma che potrebbe assumere un ruolo centrale se si decidesse di orientarsi verso un modello di sanità misto pubblico-privato.
 * __Mancanza di trasparenza__ sui prezzi che può indurre i fornitori a stabilire prezzi più alti fuori da un contesto realmente concorrenziale.
 * __Incentivi non allineati__: I diversi attori del sistema sanitario (pazienti, fornitori, assicuratori, aziende farmaceutiche) hanno motivazioni finanziarie diverse, che spesso non coincidono con l'obiettivo di offrire la migliore assistenza al minor costo.
 
-### 4. Altri Fattori:
+#### 4. Altri Fattori:
 * __Medicina difensiva__: I medici possono ordinare test o procedure extra per proteggersi da potenziali cause per negligenza professionale, portando a un aumento dei servizi e dei costi.
 * __Sprechi, frodi e abusi__: Una quantità significativa di spesa sanitaria viene persa ogni anno a causa di pratiche inefficienti, richieste fraudolente e abusi [^4].
   
@@ -114,6 +114,39 @@ La digitalizzazione espone i dati sanitari a rischi di attacchi informatici, dat
 È indispensabile investire in sistemi di cybersecurity robusti e aggiornati, con procedure di gestione delle minacce e di protezione dei dati rigorose. La fiducia dei cittadini nel sistema digitale e la salute dipendono interamente dalla garanzia della privacy e della sicurezza dei loro dati. 
 Sul tema della Cybersecurity, si rimanda al _PP Generale del GT Sanità_.
 
+### 6. One-Health
+L’approccio one-health è un __approccio integrato e collaborativo che riconosce l'indissolubile connessione tra la salute degli esseri umani, la salute degli animali e la salute degli ecosistemi__.
+Lo One-Health richiede l’integrazione con i sistemi di sorveglianza e con le informazioni epidemiologiche tradizionalmente utilizzati per monitorare morbosità e mortalità delle malattie trasmissibili.
+Le tecnologie digitali per la salute fungono da strumenti e infrastrutture essenziali che rendono possibile la visione collaborativa e integrata del modello One-Health.
+Il collegamento principale è che la SD fornisce i dati, le capacità comunicative e analitiche necessarie per rendere operativo l’approccio One-Health.
+
+__Come la sanità digitale supporta lo One Health__
+Le tecnologie digitali potenziano il modello One Health in diverse aree chiave:
+
+#### Sorveglianza e analisi dei dati integrata: 
+Questo è forse il collegamento più critico. Le piattaforme digitali, spesso basate su cloud computing e analisi dei Big Data, possono raccogliere e integrare dati da varie fonti in tempo reale. Tra questi:
+Dati sulla salute umana: cartelle cliniche elettroniche (EHR), sorveglianza sindromica da cliniche e ospedali, rapporti di sanità pubblica.
+* __Dati sulla salute animale__: cartelle veterinarie, tracciamento del bestiame con sensori IoT (es. collari intelligenti), sorveglianza della fauna selvatica.
+* __Dati ambientali__: immagini satellitari per monitorare i cambiamenti nell’uso del suolo, monitoraggio climatico, biosensori ambientali.
+* __Dati genomici__: sequenziamento di patogeni provenienti da esseri umani, animali e ambiente per tracciare la loro evoluzione e diffusione.
+
+#### Sistemi di allerta precoce: 
+Analizzando questi dati integrati, algoritmi di Intelligenza Artificiale (AI) e machine learning possono identificare schemi insoliti che potrebbero indicare un nuovo focolaio. Questi __modelli predittivi__ possono anticipare dove e quando è probabile che si verifichi uno _spillover_ zoonotico, permettendo una risposta __proattiva anziché reattiva__. Ciò è cruciale per malattie come COVID-19, Ebola e influenza aviaria.
+
+#### Comunicazione e collaborazione potenziate: 
+* __Piattaforme digitali__, dai database condivisi alle app mobili, facilitano la comunicazione tra professionisti di settori diversi. Ad esempio, un veterinario può rapidamente condividere un rapporto su una nuova malattia animale con le autorità sanitarie, che possono verificare eventuali casi umani corrispondenti nella stessa area geografica.
+* __Telemedicina e monitoraggio remoto__: Le soluzioni di telehealth estendono l’accesso all’assistenza sanitaria (umana e animale) anche in aree remote. Questo è particolarmente importante per popolazioni svantaggiate e per il monitoraggio della fauna selvatica o del bestiame in contesti rurali, offrendo una visione più completa della salute di tutte le specie e degli ambienti.
+* __Citizen Science__: Strumenti digitali e app mobili consentono al pubblico di partecipare alla raccolta dati, segnalando comportamenti insoliti negli animali, fauna selvatica morta o problemi ambientali. Questo “crowdsourcing” dei dati aggiunge un ulteriore livello di sorveglianza e coinvolgimento della comunità all’interno del framework One Health.
+
+### 7. Formazione degli operatori sanitari e User Experience
+Per utilizzare l’informatica in sanità, sono necessarie due condizioni preliminari: i) gli operatori sanitari devono saper sfruttare efficacemente la tecnologia in uso; ii) le soluzioni tecnologiche, devono basarsi su fondate conoscenze relative alle specifiche dei processi della sanità.
+Medici, infermieri e gli altri operatori sanitari, lavorano per portare la salute ai pazienti. Gli strumenti di SD non devono sottrarre tempo alla pratica delle professioni sanitarie. 
+__La mancanza di un'adeguata formazione digitale degli operatori sanitari è uno dei principali ostacoli__ alla piena adozione delle nuove tecnologie in sanità (__sottoutilizzo__). Spesso, il problema non è la resistenza al cambiamento, ma la carenza di competenze digitali specifiche. Questo divario non solo rallenta l'innovazione, ma può portare a inefficienze operative e, in casi estremi, a rischi per la sicurezza del paziente. La formazione deve essere pratica e orientata all'uso quotidiano degli strumenti digitali.
+Riprendendo quanto in premessa, bisogna evidenziare un problema fondamentale e spesso sottovalutato, relativo alla progettazione degli strumenti digitali. Molti sistemi software sanitari non sono stati sviluppati con una __User Experience__ (UX) pensata per le esigenze specifiche di medici e infermieri.
+Il risultato è un'interfaccia spesso confusa e poco intuitiva, che richiede un numero eccessivo di passaggi per eseguire azioni semplici, come registrare un dato o accedere a una cartella clinica. 
+A volte lo scenario è complicato da requisiti di sicurezza estremi che richiedono la continua ri-connessione al software. Questo non solo genera frustrazione (in casi estremi comporta l’abbandono dell’uso del software o la delega ad altri nell’uso dello stesso) e rallenta il lavoro, ma può aumentare il rischio di errori clinici, è quindi a rischio la sicurezza del paziente. Migliorare la UX in sanità non è un vezzo estetico, ma un requisito critico per l'efficienza, la sicurezza e l'accettazione da parte degli operatori.
+
+
 
 
 
@@ -164,6 +197,7 @@ _Sistemi di Infusione Smart_: pompe per infusione "intelligenti" che, pur non es
 [^16]: Esistono diverse ragioni, sia legali che pratiche, per cui un attacco informatico nel settore sanitario potrebbe non essere divulgato: le normative sulla privacy (come il GDPR in Europa e l'HIPAA negli Stati Uniti) impongono la notifica pubblica solo in caso di violazione di dati sensibili dei pazienti. Se un attacco, come un attacco DDoS che blocca i servizi o un malware che viene neutralizzato prima di compromettere i dati, non comporta il furto di informazioni personali, non vi è un obbligo di notifica pubblica. Altre ragioni per la sottorappresentazione, possono dipendere dal _danno Reputazionale_, le organizzazioni sanitarie, come gli ospedali, si basano sulla fiducia dei pazienti e eivelare di essere stati vittima di un attacco cyber può minare questa fiducia causando un grave danno d'immagine, ma anche una _minore visibilità delle piccole strutture_ e una minore presenza sui canali d'informazione.
 
 [^17]:
+
 
 
 
