@@ -140,11 +140,30 @@ Analizzando questi dati integrati, algoritmi di Intelligenza Artificiale (AI) e 
 
 ### 7. Formazione degli operatori sanitari e User Experience
 Per utilizzare l’informatica in sanità, sono necessarie due condizioni preliminari: i) gli operatori sanitari devono saper sfruttare efficacemente la tecnologia in uso; ii) le soluzioni tecnologiche, devono basarsi su fondate conoscenze relative alle specifiche dei processi della sanità.
+
 Medici, infermieri e gli altri operatori sanitari, lavorano per portare la salute ai pazienti. Gli strumenti di SD non devono sottrarre tempo alla pratica delle professioni sanitarie. 
 __La mancanza di un'adeguata formazione digitale degli operatori sanitari è uno dei principali ostacoli__ alla piena adozione delle nuove tecnologie in sanità (__sottoutilizzo__). Spesso, il problema non è la resistenza al cambiamento, ma la carenza di competenze digitali specifiche. Questo divario non solo rallenta l'innovazione, ma può portare a inefficienze operative e, in casi estremi, a rischi per la sicurezza del paziente. La formazione deve essere pratica e orientata all'uso quotidiano degli strumenti digitali.
+
 Riprendendo quanto in premessa, bisogna evidenziare un problema fondamentale e spesso sottovalutato, relativo alla progettazione degli strumenti digitali. Molti sistemi software sanitari non sono stati sviluppati con una __User Experience__ (UX) pensata per le esigenze specifiche di medici e infermieri.
 Il risultato è un'interfaccia spesso confusa e poco intuitiva, che richiede un numero eccessivo di passaggi per eseguire azioni semplici, come registrare un dato o accedere a una cartella clinica. 
 A volte lo scenario è complicato da requisiti di sicurezza estremi che richiedono la continua ri-connessione al software. Questo non solo genera frustrazione (in casi estremi comporta l’abbandono dell’uso del software o la delega ad altri nell’uso dello stesso) e rallenta il lavoro, ma può aumentare il rischio di errori clinici, è quindi a rischio la sicurezza del paziente. Migliorare la UX in sanità non è un vezzo estetico, ma un requisito critico per l'efficienza, la sicurezza e l'accettazione da parte degli operatori.
+
+## Argomentazioni
+
+__Argomento 1__: La sanità digitale (digital health) è considerata un fattore chiave per l'efficienza dei sistemi sanitari, poiché le sue soluzioni possono ridurre i costi operativi e migliorare i risultati clinici. La sua efficacia economica si manifesta principalmente in tre modi:
+__Riduzione dei costi amministrativi__: L'automazione di processi come la fatturazione, la gestione delle cartelle cliniche e la programmazione degli appuntamenti riduce il carico di lavoro del personale e gli errori, diminuendo la spesa.
+__Ottimizzazione della cura__: Strumenti come la telemedicina e i sistemi di supporto decisionale clinico (CDSS) migliorano l'appropriatezza delle cure e permettono di monitorare i pazienti a distanza, evitando ricoveri non necessari e complicazioni costose.
+__Maggiore efficienza operativa__: L'uso di software avanzati per la gestione di sale operatorie o magazzini ottimizza l'uso delle risorse, riducendo gli sprechi e massimizzando la produttività.
+
+
+__Argomento 2__: La SD porta benefici anche in termini di efficienza della cura e qualità della vita dei pazienti (oltre che degli operatori sanitari). Questi i principali benefici:
+__Continuità delle cure__: Permette ai professionisti di accedere rapidamente a tutte le informazioni cliniche di un paziente, anche se si trova in una struttura diversa. Questo abilita cure più coordinate ed efficaci.
+__Personalizzazione delle cure__: Grazie all'analisi dei dati, il software permette ai medici di adattare i trattamenti e le terapie alle esigenze specifiche di ogni singolo paziente.
+__Riduzione degli errori__: Sistemi come il CDSS (Clinical Decision Support System) abilitano un livello di sicurezza superiore, avvisando i medici di potenziali interazioni farmacologiche o allergie in tempo reale.
+__Gestione più efficiente__: Il software abilita una pianificazione ottimale delle risorse, dalla gestione delle sale operatorie all'inventario dei farmaci, riducendo gli sprechi e ottimizzando i tempi.
+__Ricerca e innovazione__: Abilita l'uso secondario dei dati sanitari (in forma anonima e aggregata) per la ricerca, permettendo di identificare tendenze, migliorare i protocolli di cura e far progredire la medicina.
+__Accesso e monitoraggio da remoto__: Si riducono le ospedalizzazioni con vantaggi sulla qualità della vita dei pazienti (e contenimento dei costi). 
+
 
 
 
@@ -197,6 +216,7 @@ _Sistemi di Infusione Smart_: pompe per infusione "intelligenti" che, pur non es
 [^16]: Esistono diverse ragioni, sia legali che pratiche, per cui un attacco informatico nel settore sanitario potrebbe non essere divulgato: le normative sulla privacy (come il GDPR in Europa e l'HIPAA negli Stati Uniti) impongono la notifica pubblica solo in caso di violazione di dati sensibili dei pazienti. Se un attacco, come un attacco DDoS che blocca i servizi o un malware che viene neutralizzato prima di compromettere i dati, non comporta il furto di informazioni personali, non vi è un obbligo di notifica pubblica. Altre ragioni per la sottorappresentazione, possono dipendere dal _danno Reputazionale_, le organizzazioni sanitarie, come gli ospedali, si basano sulla fiducia dei pazienti e eivelare di essere stati vittima di un attacco cyber può minare questa fiducia causando un grave danno d'immagine, ma anche una _minore visibilità delle piccole strutture_ e una minore presenza sui canali d'informazione.
 
 [^17]:
+
 
 
 
