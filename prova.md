@@ -24,9 +24,7 @@ La spesa sanitaria sta aumentando [^1] per effetto di una complessa combinazione
 #### 1. Fattori demografici e legati alla salute:
 * **Invecchiamento della popolazione**: Man mano che la popolazione invecchia [^2], aumenta la domanda di servizi sanitari. Gli anziani, in media, utilizzano più risorse sanitarie e hanno bisogni di salute più complessi. Con l’età aumenta l’incidenza delle malattie croniche e spesso la presenza di comorbidità che complicano il quadro.
 
-* **Malattie croniche**: La prevalenza di condizioni croniche come il diabete, le malattie cardiache e l'obesità è in aumento. Queste malattie richiedono cure a lungo termine, intensive e costose, e rappresentano una parte significativa dei costi sanitari. [NOTA Popolazione generale: Circa il 40% degli italiani dichiara di soffrire di almeno una malattia cronica.
-Over 65: Questa percentuale cresce in modo esponenziale. Tra gli anziani, la prevalenza è di circa il 75-80%, con una larga parte di essi che soffre di multimorbilità, ovvero la coesistenza di più patologie croniche
-Spesa sanitaria: Le malattie croniche sono responsabili di circa l'80% della spesa sanitaria totale in Italia, ma dati simili si ritrovano nelle economie avanzate. Le cure e l'assistenza a lungo termine sono onerosi e richiedono un approccio integrato.] 
+* **Malattie croniche**: La prevalenza di condizioni croniche come il diabete, le malattie cardiache e l'obesità è in aumento. Queste malattie richiedono cure a lungo termine, intensive e costose, e rappresentano una parte significativa dei costi sanitari. [^3] 
 
 Organizzazione dei servizi: Il SSN si trova ad affrontare la sfida di passare da un modello incentrato sulla cura della malattia acuta a uno focalizzato sulla gestione e prevenzione delle cronicità. Ciò implica il potenziamento dei servizi territoriali e dell'assistenza domiciliare.
 Qualità della vita: La gestione delle malattie croniche incide pesantemente sulla qualità della vita dei pazienti e delle loro famiglie, richiedendo spesso un supporto costante e un monitoraggio continuo.
@@ -38,6 +36,11 @@ Qualità della vita: La gestione delle malattie croniche incide pesantemente sul
  [^1]: Secondo il DFP (documento di finanza pubblica), la sola spesa sanitaria pubblica è destinata a crescere dai 138,3 miliardi di euro del 2024 ai 151,6 miliardi nel 2027 (CAGR ~3,1%) https://www.quotidianosanita.it/governo-e-parlamento/articolo.php?articolo_id=129022&fr=n || Il Report Osservatorio GIMBE 2/2025 mostra l’andamento in termini nominali, dal 2012 al 2023, della spesa sanitaria pubblica (da 108 a 130 miliardi €, CAGR ~1,7%), privata i) out of pocket (da 31,5 a 40,6 € mld, CAGR ~2.3%) e ii) intermediate (da 2,9 a 5,2 € mld, CAGR ~5,5%).
 
 [^2]: Si prevede che entro il 2050 gli over 65 passeranno dall'attuale 24,3% a circa il 34,6% del totale. Fonte https://www.istat.it/tag/previsioni-demografiche/  e in particolare https://www.istat.it/comunicato-stampa/previsioni-della-popolazione-residente-e-delle-famiglie-base-1-1-2024/ 
+
+[^3]: Popolazione generale: Circa il 40% degli italiani dichiara di soffrire di almeno una malattia cronica.
+Over 65: Questa percentuale cresce in modo esponenziale. Tra gli anziani, la prevalenza è di circa il 75-80%, con una larga parte di essi che soffre di multimorbilità, ovvero la coesistenza di più patologie croniche
+Spesa sanitaria: Le malattie croniche sono responsabili di circa l'80% della spesa sanitaria totale in Italia, ma dati simili si ritrovano nelle economie avanzate. Le cure e l'assistenza a lungo termine sono onerosi e richiedono un approccio integrato.
+
 
 
 
