@@ -82,7 +82,38 @@ La __Telemedicina__ è l'uso di tecnologie di telecomunicazione e informatiche p
 * __Telemonitoraggio__: Consiste nella sorveglianza a distanza dei parametri vitali o di altri dati fisiologici di un paziente, tipicamente utilizzando dispositivi medici collegati a una centrale operativa (es. sensori per la pressione sanguigna, saturimetri, accelerometri). È fondamentale per la gestione delle malattie croniche e per il follow-up post-ospedaliero.
 * __Telereabilitazione__: È l'applicazione della telemedicina al campo della riabilitazione fisica, occupazionale o logopedica. I terapisti guidano i pazienti a distanza attraverso esercizi e terapie, spesso utilizzando piattaforme video e sensori che monitorano i movimenti.
 * __Terapia Digitale (Digital Therapeutics - DTx)__: Si tratta di una categoria di prodotti software che forniscono interventi terapeutici basati sull'evidenza clinica per prevenire, gestire o trattare una specifica condizione medica. A differenza della telemedicina, che facilita la comunicazione, le terapie digitali agiscono come un trattamento autonomo, ma possono essere usate in combinazione con la telemedicina per supportare il paziente. Per poter essere usati necessitano di validazione clinica [^14]. 
-* __Infusione di farmaci da remoto__: attualmente si tratta di applicazioni sperimentali che rientrano nei principi della telemedicina, ma anche della robotica. Si tratta di sistemi che permettono l'infusione di farmaci in modo automatico e sotto il controllo di un professionista sanitario a distanza. È una delle frontiere future della telemedicina, applicata soprattutto in contesti specializzati ad alta tecnologia [^15]. 
+* __Infusione di farmaci da remoto__: attualmente si tratta di applicazioni sperimentali che rientrano nei principi della telemedicina, ma anche della robotica. Si tratta di sistemi che permettono l'infusione di farmaci in modo automatico e sotto il controllo di un professionista sanitario a distanza. È una delle frontiere future della telemedicina, applicata soprattutto in contesti specializzati ad alta tecnologia [^15].
+
+### 4. Intelligenza Artificiale (IA o AI)
+
+L'uso dell'IA in sanità è in rapida crescita e sta rivoluzionando diversi settori, dalla ricerca clinica alla gestione quotidiana degli ospedali. L'IA non sostituisce i professionisti, ma agisce come un potente strumento per renderli più efficienti e migliorare i risultati per i pazienti.
+L'uso dell'Intelligenza Artificiale in sanità solleva importanti questioni etiche che non possono essere ignorate. Se da un lato l'IA promette di migliorare l'assistenza, dall'altro introduce nuove sfide su come viene sviluppata e applicata in modo responsabile. Si rimanda ad altri PP specifici sul tema e al _PP generale del GT Sanità_.
+
+Le seguenti sono alcuni dei principali usi possibili dell'IA in sanità:
+
+__Diagnostica e analisi delle immagini__
+L'IA può analizzare immagini mediche (come radiografie, risonanze magnetiche, TAC e scansioni istologiche) con una velocità e precisione che superano le capacità umane. Gli algoritmi di apprendimento automatico possono identificare anomalie come tumori, lesioni o segni di malattie degenerative in fase precoce, supportando i radiologi e i patologi nella diagnosi.
+
+__Medicina personalizzata__
+Attraverso l'analisi di grandi volumi di dati (genetici, clinici e di stile di vita), l'IA può aiutare i medici a personalizzare i trattamenti. Questo include la farmacogenomica, che permette di prevedere la risposta di un paziente a un farmaco specifico, e lo sviluppo di terapie mirate per il cancro o altre malattie complesse.
+
+__Sviluppo di farmaci e ricerca__
+L'IA accelera la ricerca e lo sviluppo di nuovi farmaci riducendo i tempi e i costi. Gli algoritmi possono simulare le interazioni molecolari, prevedere l'efficacia di potenziali composti e identificare candidati promettenti per i test clinici, abbreviando drasticamente il processo di scoperta.
+
+__Gestione operativa e amministrativa__
+Una parte significativa delle spese sanitarie è legata ai costi amministrativi. L'IA può automatizzare e ottimizzare molte attività, tra cui la programmazione degli appuntamenti, la gestione dei flussi di pazienti, la codifica delle fatture e l'analisi dei reclami assicurativi, liberando il personale per concentrarsi sulla cura dei pazienti.
+
+__Assistenza al paziente e monitoraggio remoto__
+L'IA è utilizzata per creare chatbot sanitari che possono rispondere a domande di routine, aiutare a monitorare i sintomi o a gestire le malattie croniche. Inoltre, analizza i dati raccolti da dispositivi indossabili (wearable) per fornire ai medici un quadro in tempo reale della salute di un paziente, permettendo un intervento tempestivo.
+
+__Chirurgia robotica__
+I sistemi robotici basati su IA sono la prossima frontiera. Ai fini del presente documento si citano solo in termini di potenzialità. I campi di applicazione, ad esempio, pianificazione e navigazione chirurgica (l'IA può analizzare esami diagnostici (come TC o risonanze magnetiche) per creare una mappa 3D dettagliata dell'anatomia del paziente. Questo aiuta il chirurgo a pianificare il percorso operatorio in modo più preciso, identificando strutture critiche.) e guida intraoperatoria: (l'IA agisce come un "co-pilota", aumentando la sicurezza e la precisione della procedura).
+
+### 5. Cybersecurity 
+La digitalizzazione espone i dati sanitari a rischi di attacchi informatici, dati USA parlano del 60% delle strutture sanitarie colpite da violazioni via mail nel 2024 (molti casi non vengono diffusi al pubblico [^16]).
+È indispensabile investire in sistemi di cybersecurity robusti e aggiornati, con procedure di gestione delle minacce e di protezione dei dati rigorose. La fiducia dei cittadini nel sistema digitale e la salute dipendono interamente dalla garanzia della privacy e della sicurezza dei loro dati. 
+Sul tema della Cybersecurity, si rimanda al _PP Generale del GT Sanità_.
+
 
 
 
@@ -129,6 +160,10 @@ https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500327
 
 [^15]: _Monitoraggio Remoto_: Un operatore sanitario monitora a distanza il corretto funzionamento di una pompa per infusione che si trova a casa del paziente. La programmazione e la gestione dell'infusione rimangono sotto il controllo del paziente o di un caregiver istruito, mentre l'operatore può visualizzare i dati in tempo reale.
 _Sistemi di Infusione Smart_: pompe per infusione "intelligenti" che, pur non essendo controllate da remoto, possono connettersi a un sistema centrale in ospedale per scambiare dati (es. dosaggio, allarmi, storici di somministrazione), riducendo gli errori manuali.
+
+[^16]: Esistono diverse ragioni, sia legali che pratiche, per cui un attacco informatico nel settore sanitario potrebbe non essere divulgato: le normative sulla privacy (come il GDPR in Europa e l'HIPAA negli Stati Uniti) impongono la notifica pubblica solo in caso di violazione di dati sensibili dei pazienti. Se un attacco, come un attacco DDoS che blocca i servizi o un malware che viene neutralizzato prima di compromettere i dati, non comporta il furto di informazioni personali, non vi è un obbligo di notifica pubblica. Altre ragioni per la sottorappresentazione, possono dipendere dal _danno Reputazionale_, le organizzazioni sanitarie, come gli ospedali, si basano sulla fiducia dei pazienti e eivelare di essere stati vittima di un attacco cyber può minare questa fiducia causando un grave danno d'immagine, ma anche una _minore visibilità delle piccole strutture_ e una minore presenza sui canali d'informazione.
+
+[^17]:
 
 
 
