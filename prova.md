@@ -39,6 +39,25 @@ La spesa sanitaria sta aumentando [^1] per effetto di una complessa combinazione
 * **Mancanza di trasparenza** sui prezzi che può indurre i fornitori a stabilire prezzi più alti fuori da un contesto realmente concorrenziale.
 * **Incentivi non allineati**: I diversi attori del sistema sanitario (pazienti, fornitori, assicuratori, aziende farmaceutiche) hanno motivazioni finanziarie diverse, che spesso non coincidono con l'obiettivo di offrire la migliore assistenza al minor costo.
 
+### 4. Altri Fattori:
+* **Medicina difensiva**: I medici possono ordinare test o procedure extra per proteggersi da potenziali cause per negligenza professionale, portando a un aumento dei servizi e dei costi.
+* **Sprechi, frodi e abusi**: Una quantità significativa di spesa sanitaria viene persa ogni anno a causa di pratiche inefficienti, richieste fraudolente e abusi[^4].
+  
+La digitalizzazione offre risposte efficaci a tutti questi fattori, come spiegato in dettaglio di seguito.
+
+## Posizione
+* La sanità digitale (SD) garantisce benefici tangibili per l'intero sistema. L'adozione di soluzioni tecnologiche, come le cartelle cliniche elettroniche, la telemedicina e l'intelligenza artificiale, rende il sistema più efficiente, migliora i processi, riduce gli sprechi, soprattutto mette il paziente al centro delle cure e dell’assistenza, che possono essere personalizzate. In particolare la telemedicina, riduce i costi di ospedalizzazione, migliora la qualità della vita dei pazienti,  aiuta a superare le barriere geografiche (ad es. isole e zone montane).
+  
+* Finora non si sono impiegate le tecnologie digitali al massimo delle loro potenzialità.  L'uso delle tecnologie digitali in sanità non ha ancora raggiunto il massimo del suo potenziale. Si tratta non solo si una questione tecnologica, ma un vero e proprio cambiamento di paradigma. Questa posizione è fondamentale perché affronta molte delle sfide che il Servizio Sanitario Nazionale italiano (SSN) deve affrontare. Il SSN, pur essendo universalistico, è spesso sotto pressione a causa dell'invecchiamento della popolazione, dell'aumento delle malattie croniche e delle disparità regionali. La sanità digitale offre soluzioni concrete a queste problematiche per modernizzare il sistema e garantire un'assistenza equa e sostenibile.
+  
+* L’uso di sistemi di SD permette il contenimento dei costi, il controllo della appropriatezza, la riduzione/eliminazione degli sprechi, la migliore organizzazione dei flussi di lavoro e del pieno impiego delle infrastrutture, l’eliminazione di errori (ad es. di trascrizione) migliore esiti delle cure.
+  
+* La SD gioca un ruolo cruciale nella prevenzione, sia primaria che secondaria. Strumenti come le app per il monitoraggio della salute e i dispositivi indossabili incoraggiano stili di vita più sani e la consapevolezza del proprio benessere. Inoltre, a livello di sistema, le tecnologie digitali sono fondamentali per l'efficacia dei programmi di screening. Consentono l'invio automatizzato di promemoria per esami periodici, la gestione centralizzata delle prenotazioni e la comunicazione rapida dei risultati, migliorando la partecipazione dei cittadini e l'efficacia complessiva delle campagne di prevenzione di massa.
+
+* La SD permette anche di raccogliere moli di dati immense (Big Data) che possono poi essere utilizzati a fini di ricerca per, ad esempio, la creazione di nuovi farmaci, l’implementazione di nuove tecnologie o campi emergenti (medicina molecolare e personalizzata, medicina rigenerativa, robotica, ecc.).
+
+
+
 
 
 
@@ -52,6 +71,9 @@ La spesa sanitaria sta aumentando [^1] per effetto di una complessa combinazione
 [^3]: **Popolazione generale**: Circa il **40%** degli italiani dichiara di soffrire di almeno una malattia cronica.
 **Over 65**: Questa percentuale cresce in modo esponenziale. Tra gli anziani, la prevalenza è di circa il **75-80%**, con una larga parte di essi che soffre di multimorbilità, ovvero la coesistenza di più patologie croniche
 **Spesa sanitaria**: Le malattie croniche sono responsabili di circa l'**80%** della spesa sanitaria totale in Italia, ma dati simili si ritrovano nelle economie avanzate. Le cure e l'assistenza a lungo termine sono onerosi e richiedono un approccio integrato.
+
+[^4]: Esempi di: a) sprechi: sovraccarico di appuntamenti o esami diagnostici, duplicazione di test, prescrizioni di farmaci con prezzi elevati quando sono disponibili alternative equivalenti a minor costo; b) frodi: fatturare servizi mai erogati, falsificare le cartelle cliniche per ottenere rimborsi maggiori; c) abusi: fatturare per un livello di servizio più alto di quello realmente erogato (upcoding), somministrare trattamenti o esami diagnostici inutili, prescrivere farmaci non necessari o in dosi eccessive.
+
 
 
 
