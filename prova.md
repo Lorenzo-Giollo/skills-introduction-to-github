@@ -150,19 +150,48 @@ A volte lo scenario è complicato da requisiti di sicurezza estremi che richiedo
 
 ## Argomentazioni
 
-__Argomento 1__: La sanità digitale (digital health) è considerata un fattore chiave per l'efficienza dei sistemi sanitari, poiché le sue soluzioni possono ridurre i costi operativi e migliorare i risultati clinici. La sua efficacia economica si manifesta principalmente in tre modi:
+### Argomento 1
+La sanità digitale (digital health) è considerata un fattore chiave per l'efficienza dei sistemi sanitari, poiché le sue soluzioni possono ridurre i costi operativi e migliorare i risultati clinici. La sua efficacia economica si manifesta principalmente in tre modi:
+
 __Riduzione dei costi amministrativi__: L'automazione di processi come la fatturazione, la gestione delle cartelle cliniche e la programmazione degli appuntamenti riduce il carico di lavoro del personale e gli errori, diminuendo la spesa.
+
 __Ottimizzazione della cura__: Strumenti come la telemedicina e i sistemi di supporto decisionale clinico (CDSS) migliorano l'appropriatezza delle cure e permettono di monitorare i pazienti a distanza, evitando ricoveri non necessari e complicazioni costose.
+
 __Maggiore efficienza operativa__: L'uso di software avanzati per la gestione di sale operatorie o magazzini ottimizza l'uso delle risorse, riducendo gli sprechi e massimizzando la produttività.
 
 
-__Argomento 2__: La SD porta benefici anche in termini di efficienza della cura e qualità della vita dei pazienti (oltre che degli operatori sanitari). Questi i principali benefici:
+### Argomento 2
+La SD porta benefici anche in termini di efficienza della cura e qualità della vita dei pazienti (oltre che degli operatori sanitari). Questi i principali benefici:
+
 __Continuità delle cure__: Permette ai professionisti di accedere rapidamente a tutte le informazioni cliniche di un paziente, anche se si trova in una struttura diversa. Questo abilita cure più coordinate ed efficaci.
+
 __Personalizzazione delle cure__: Grazie all'analisi dei dati, il software permette ai medici di adattare i trattamenti e le terapie alle esigenze specifiche di ogni singolo paziente.
+
 __Riduzione degli errori__: Sistemi come il CDSS (Clinical Decision Support System) abilitano un livello di sicurezza superiore, avvisando i medici di potenziali interazioni farmacologiche o allergie in tempo reale.
+
 __Gestione più efficiente__: Il software abilita una pianificazione ottimale delle risorse, dalla gestione delle sale operatorie all'inventario dei farmaci, riducendo gli sprechi e ottimizzando i tempi.
-__Ricerca e innovazione__: Abilita l'uso secondario dei dati sanitari (in forma anonima e aggregata) per la ricerca, permettendo di identificare tendenze, migliorare i protocolli di cura e far progredire la medicina.
+
 __Accesso e monitoraggio da remoto__: Si riducono le ospedalizzazioni con vantaggi sulla qualità della vita dei pazienti (e contenimento dei costi). 
+
+__Ricerca e innovazione__: Abilita l'uso secondario dei dati sanitari (in forma anonima e aggregata) per la ricerca, permettendo di identificare tendenze, migliorare i protocolli di cura e far progredire la medicina.
+
+## Contro-argomentazioni
+Anticipa obiezioni e rispondi in modo efficace.
+### Controargomentazione 1: La spesa per SD è una spesa aggiuntiva che peggiora il bilancio dello Stato. 
+LA spesa per la sanità digitale è attualmente in italia inferiore ai € 3 mld. Ci si attende una crescita, soprattutto legata all’implementazione dell’IA, ma i benefici dimostrati superano i costi. Come riportato nelle fonti, numerosi studi dimostrano i benefici dell’adozione della digitalizzazione in termini di contenimento della spesa (per effetto di maggiore efficienza, controllo e quindi riduzione degli sprechi). C’è poi il caso reale dell’Italia che ha tagliato i costi per la sanità linearmente durante la crisi iniziata nel 2008. L’evidenza dei fatti ha persuaso le amministrazioni sanitarie a riprendere gli investimenti in digitalizzazione nonostante il cap alla spesa perché hanno provato direttamente gli effetti negativi della non digitalizzazione.(FONTI)
+
+### Controargomentazione 2: I medici/infermieri devono curare e non perdere tempo usando il computer. 
+E’ vero, il personale sanitario deve prendersi cura dei pazienti, ma l’adozione di SD permette loro di accelerare la pratica della professione perché molto del lavoro può essere automatizzato e facilitato, ad esempio la riduzione degli errori, l’uso degli strumenti per indagini di letteratuire ecc (AMPLIARE e fonti)
+
+## Conclusione
+
+Ribadisci brevemente i punti principali della tua proposta e i benefici che ne deriverebbero per il Sistema Paese.
+
+## Ministeri di riferimento
+Ministero della salute. 
+
+## Budget
+Nel 2023 l’Italia ha speso circa 2,23 miliardi di Euro per la Sanità Digitale, l’importo è salito a 2,47 miliardi di Euro nel 2024, soprattutto per i maggiori investimenti legati al PNRR. Questa spesa comprende tutta la parte di software e servizi ICT, nonché hardware. Una stima ritiene la spesa per la sanità digitale in Italia crescente, ma in maniera decrescente tale da portare la spesa pubblica per la Sanità Digitale in Italia a 3.03 miliardi di Euro nel 2026 (con un CAGR del 10.8%). Se da un lato vi è un rischio concreto che si manifesterà se non si definirà una strategia di finanziamento a lungo termine, che vada oltre i fondi del PNRR, dall’altro, l’esperienza del passato . In linea di principio la spesa dovrebbe mantenere un tasso di crescita non si prevedono aumenti ulteriori nel breve periodo per la Sanità Digitale
 
 
 
@@ -216,6 +245,7 @@ _Sistemi di Infusione Smart_: pompe per infusione "intelligenti" che, pur non es
 [^16]: Esistono diverse ragioni, sia legali che pratiche, per cui un attacco informatico nel settore sanitario potrebbe non essere divulgato: le normative sulla privacy (come il GDPR in Europa e l'HIPAA negli Stati Uniti) impongono la notifica pubblica solo in caso di violazione di dati sensibili dei pazienti. Se un attacco, come un attacco DDoS che blocca i servizi o un malware che viene neutralizzato prima di compromettere i dati, non comporta il furto di informazioni personali, non vi è un obbligo di notifica pubblica. Altre ragioni per la sottorappresentazione, possono dipendere dal _danno Reputazionale_, le organizzazioni sanitarie, come gli ospedali, si basano sulla fiducia dei pazienti e eivelare di essere stati vittima di un attacco cyber può minare questa fiducia causando un grave danno d'immagine, ma anche una _minore visibilità delle piccole strutture_ e una minore presenza sui canali d'informazione.
 
 [^17]:
+
 
 
 
