@@ -37,9 +37,10 @@ Qualità della vita: La gestione delle malattie croniche incide pesantemente sul
 
 [^2]: Si prevede che entro il 2050 gli over 65 passeranno dall'attuale 24,3% a circa il 34,6% del totale. Fonte https://www.istat.it/tag/previsioni-demografiche/  e in particolare https://www.istat.it/comunicato-stampa/previsioni-della-popolazione-residente-e-delle-famiglie-base-1-1-2024/ 
 
-[^3]: Popolazione generale: Circa il 40% degli italiani dichiara di soffrire di almeno una malattia cronica.
-Over 65: Questa percentuale cresce in modo esponenziale. Tra gli anziani, la prevalenza è di circa il 75-80%, con una larga parte di essi che soffre di multimorbilità, ovvero la coesistenza di più patologie croniche
-Spesa sanitaria: Le malattie croniche sono responsabili di circa l'80% della spesa sanitaria totale in Italia, ma dati simili si ritrovano nelle economie avanzate. Le cure e l'assistenza a lungo termine sono onerosi e richiedono un approccio integrato.
+[^3]: **Popolazione generale**: Circa il **40%** degli italiani dichiara di soffrire di almeno una malattia cronica.
+**Over 65**: Questa percentuale cresce in modo esponenziale. Tra gli anziani, la prevalenza è di circa il **75-80%**, con una larga parte di essi che soffre di multimorbilità, ovvero la coesistenza di più patologie croniche
+**Spesa sanitaria**: Le malattie croniche sono responsabili di circa l'**80%** della spesa sanitaria totale in Italia, ma dati simili si ritrovano nelle economie avanzate. Le cure e l'assistenza a lungo termine sono onerosi e richiedono un approccio integrato.
+
 
 
 
