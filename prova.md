@@ -29,6 +29,18 @@ La spesa sanitaria sta aumentando [^1] per effetto di una complessa combinazione
 **Organizzazione dei servizi**: Il SSN si trova ad affrontare la sfida di passare da un modello incentrato sulla cura della malattia acuta a uno focalizzato sulla **gestione e prevenzione** delle cronicità. Ciò implica il potenziamento dei **servizi territoriali e dell'assistenza domiciliare**.
 **Qualità della vita**: La gestione delle malattie croniche incide pesantemente sulla qualità della vita dei pazienti e delle loro famiglie, richiedendo spesso un supporto costante e un monitoraggio continuo.
 
+### 2. Fattori economici e legati all'offerta:
+* **Costo elevato di nuove tecnologie e farmaci**: I progressi medici, comprese le nuove tecnologie, attrezzature e farmaci innovativi, possono portare a migliori risultati in termini di salute, ma spesso i costi di ricerca, sviluppo e commercializzazione vengono trasferiti al consumatore (cittadini e pazienti, direttamente o tramite il SSN).
+* **Costi del lavoro**: Il settore sanitario è ad alta intensità di manodopera e una carenza di personale qualificato (ad es. medici, infermieri) può far aumentare i salari (come anche auspicato nel PP relativo al tema), il che a sua volta aumenta i costi operativi per ospedali e altre strutture.
+* **Spese amministrative**: La complessità del sistema sanitario, con i suoi molteplici piani assicurativi, codici di fatturazione e regolamenti, si traduce in significativi oneri amministrativi. Questo carico burocratico contribuisce a costi più elevati.
+
+### 3. Fattori sistemici e di mercato:
+* Il modello **"Fee-for-Service"** (rimborso per prestazione) remunera le strutture sanitarie e i professionisti in base a un tariffario per ogni singolo servizio erogato, come visite o esami. Questo sistema, applicato in Italia principalmente per prestazioni specialistiche e diagnostiche, può incentivare l'erogazione di un maggior numero di servizi per incrementare i guadagni, potenzialmente portando a costi più alti e trattamenti non strettamente necessari. E’ un tema non centrale attualmente ma che potrebbe assumere un ruolo centrale se si decidesse di orientarsi verso un modello di sanità misto pubblico-privato.
+* **Mancanza di trasparenza** sui prezzi che può indurre i fornitori a stabilire prezzi più alti fuori da un contesto realmente concorrenziale.
+* **Incentivi non allineati**: I diversi attori del sistema sanitario (pazienti, fornitori, assicuratori, aziende farmaceutiche) hanno motivazioni finanziarie diverse, che spesso non coincidono con l'obiettivo di offrire la migliore assistenza al minor costo.
+
+
+
 
 
 
@@ -40,6 +52,7 @@ La spesa sanitaria sta aumentando [^1] per effetto di una complessa combinazione
 [^3]: **Popolazione generale**: Circa il **40%** degli italiani dichiara di soffrire di almeno una malattia cronica.
 **Over 65**: Questa percentuale cresce in modo esponenziale. Tra gli anziani, la prevalenza è di circa il **75-80%**, con una larga parte di essi che soffre di multimorbilità, ovvero la coesistenza di più patologie croniche
 **Spesa sanitaria**: Le malattie croniche sono responsabili di circa l'**80%** della spesa sanitaria totale in Italia, ma dati simili si ritrovano nelle economie avanzate. Le cure e l'assistenza a lungo termine sono onerosi e richiedono un approccio integrato.
+
 
 
 
