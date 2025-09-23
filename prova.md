@@ -1,11 +1,11 @@
 # Position Paper
 ## Titolo
-Sanità Digitale (SD)
+Sanità Digitale (SD) (digital health)
 
 *Autore: Lorenzo Giollo*
 
 ## Keywords
-Sanità digitale (SD), Cartella Clinica Elettronica, Fascicolo Sanitario Elettronico, Telemedicina, Intelligenza Artificiale.
+Sanità digitale (SD), Digital Health, Cartella Clinica Elettronica, Fascicolo Sanitario Elettronico, Telemedicina, Intelligenza Artificiale.
 
 ## Executive Summary
 La spesa sanitaria sta aumentando per effetto di una complessa combinazione di fattori, è a rischio la sostenibilità del sistema sanitario. In particolare, i due fattori principali sono l’invecchiamento della popolazione e l’aumento dell’incidenza delle malattie croniche. A questi si aggiungono il cattivo coordinamento e uso delle risorse disponibili (anche per la frammentazione del sistema italiano), ma anche altri fattori come l’aumento dei costi di nuovi farmaci e tecnologie. 
@@ -73,6 +73,11 @@ Rimangono problemi di disomogeneità e di interoperabilità ai quali il PNRR sta
 Lo stesso discorso può farsi per la CCE. Dati del 2023 rivelano che nel 35% degli ospedali non è una soluzione diffusa in tutti i reparti. Il PNRR (tramite le gare di sanità digitale bandite da Consip) ha dato un’accelerazione. Resta il timore della disomogeneità e dell’interoperabilità, dovuto alla maggiore frammentazione degli enti (per il FSE, gli acquirenti sono le Regioni e le Province Autonome, per la CCE a volte i singoli ospedali)[^11].  
 
 Un set minimo che porti efficienza e riduca le differenze regionali, affianca e si interfaccia con il FSE, comnprende i software per l'accesso alle cure, come quelli utilizzati dai **CUP** (Centri Unici di Prenotazione): sono sistemi informativi complessi, progettati per gestire in modo centralizzato e integrato la domanda e l'offerta di prestazioni sanitarie. Hanno la funzione di centralizzare le prenotazioni (visite, esami e prestazioni); ottimizzare le risorse (verifica in tempo reale della disponibilità di medici, sale d'esame e attrezzature specialistiche, prevenendo sovrapposizioni e massimizzando l'uso di ogni risorsa); ridurre le liste d'attesa attraverso la distribuzione del, distribuendo meglio il carico di lavoro tra i vari professionisti e le strutture basandosi su criteri di priorità [^12]. Devono prevedere la possibilità di gestire le prenotazioni attraverso diversi canali (sportello fisico, telefono, online e app).
+
+[Componenti principali della sanità digitale     Fascicolo Sanitario Elettronico (FSE): un documento digitale che raccoglie la storia clinica di una persona, permettendo a pazienti e operatori sanitari di accedere alle informazioni. 
+Telemedicina: offre la possibilità di ricevere consulenze mediche e monitorare parametri vitali da remoto, migliorando l'accessibilità alle cure. 
+Big data analytics, Intelligenza Artificiale e Cloud: tecnologie che consentono di analizzare e condividere dati clinici in modo sicuro, ottimizzando la diagnosi e il trattamento. 
+Sistemi di supporto alla prenotazione e alla consultazione: applicazioni e piattaforme digitali per prenotare visite ed esami online, o consultare referti medici. ]
 
 ### 3. Adozione e sviluppo della Telemedicina
 La __Telemedicina__ è l'uso di tecnologie di telecomunicazione e informatiche per fornire servizi di assistenza sanitaria a distanza [^13]. Non è una singola tecnologia o servizio, ma un campo vasto e in evoluzione che può arrivare a comprendere molte attività cliniche svolte al di fuori del tradizionale contesto in presenza, offrendo un'opportunità unica per __migliorare le cure e ottimizzare le risorse__. È importante però dare una definizione più accurata di cosa si intenda davvero con telemedicina. Infatti se ne dà una valutazione spesso limitata alla televisita e al teleconsulto.
@@ -151,7 +156,7 @@ A volte lo scenario è complicato da requisiti di sicurezza estremi che richiedo
 ## Argomentazioni
 
 ### Argomento 1
-La sanità digitale (digital health) è considerata un fattore chiave per l'efficienza dei sistemi sanitari, poiché le sue soluzioni possono ridurre i costi operativi e migliorare i risultati clinici. La sua efficacia economica si manifesta principalmente in tre modi:
+La sanità digitale (SD) è considerata un fattore chiave per l'efficienza dei sistemi sanitari, poiché le sue soluzioni possono ridurre i costi operativi e migliorare i risultati clinici. La sua efficacia economica si manifesta principalmente in tre modi:
 
 __Riduzione dei costi amministrativi__: L'automazione di processi come la fatturazione, la gestione delle cartelle cliniche e la programmazione degli appuntamenti riduce il carico di lavoro del personale e gli errori, diminuendo la spesa.
 
@@ -178,20 +183,39 @@ __Ricerca e innovazione__: Abilita l'uso secondario dei dati sanitari (in forma 
 ## Contro-argomentazioni
 Anticipa obiezioni e rispondi in modo efficace.
 ### Controargomentazione 1: La spesa per SD è una spesa aggiuntiva che peggiora il bilancio dello Stato. 
-LA spesa per la sanità digitale è attualmente in italia inferiore ai € 3 mld. Ci si attende una crescita, soprattutto legata all’implementazione dell’IA, ma i benefici dimostrati superano i costi. Come riportato nelle fonti, numerosi studi dimostrano i benefici dell’adozione della digitalizzazione in termini di contenimento della spesa (per effetto di maggiore efficienza, controllo e quindi riduzione degli sprechi). C’è poi il caso reale dell’Italia che ha tagliato i costi per la sanità linearmente durante la crisi iniziata nel 2008. L’evidenza dei fatti ha persuaso le amministrazioni sanitarie a riprendere gli investimenti in digitalizzazione nonostante il cap alla spesa perché hanno provato direttamente gli effetti negativi della non digitalizzazione.(FONTI)
+LA spesa per la sanità digitale è attualmente in italia inferiore ai € 3 mld. Ci si attende una crescita, soprattutto legata all’implementazione dell’IA, ma i benefici dimostrati superano i costi. Come riportato nelle fonti, numerosi studi, già citati nel presente PP, dimostrano i benefici dell’adozione della digitalizzazione in termini di contenimento della spesa (per effetto di maggiore efficienza, controllo e quindi riduzione degli sprechi). C’è poi il caso reale dell’Italia che ha tagliato i costi per la sanità linearmente nel 2010 come conseguenza della crisi iniziata nel 2008. L’evidenza dei fatti ha persuaso le amministrazioni sanitarie a riprendere gli investimenti in digitalizzazione nonostante il cap alla spesa perché hanno provato direttamente gli effetti negativi della non digitalizzazione. [ https://www.agendadigitale.eu/sanita/sanita-digitale-cosa-non-funziona-le-priorita-per-non-sprecare-gli-investimenti/ ]
 
 ### Controargomentazione 2: I medici/infermieri devono curare e non perdere tempo usando il computer. 
-E’ vero, il personale sanitario deve prendersi cura dei pazienti, ma l’adozione di SD permette loro di accelerare la pratica della professione perché molto del lavoro può essere automatizzato e facilitato, ad esempio la riduzione degli errori, l’uso degli strumenti per indagini di letteratuire ecc (AMPLIARE e fonti)
+E’ vero, il personale sanitario deve prendersi cura dei pazienti, ma l'argomentazione che non debbano perdere tempo con i computer ignora i numerosi benefici che la sanità digitale e la digitalizzazione offrono per migliorare l'assistenza sanitaria. L'uso della tecnologia è invece proprio uno strumento fondamentale per ottimizzare il lavoro e migliorare la cura del paziente.
+La digitalizzazione automatizza le attività amministrative e di routine, come la gestione delle cartelle cliniche, la prenotazione degli appuntamenti e la prescrizione di farmaci. Questo permette ai professionisti sanitari di ridurre il carico burocratico e di dedicare più tempo a ciò che conta davvero: l'interazione diretta con il paziente e la diagnosi clinica.
+[Conti, A.; Gonella, S.; Berardinelli, D.; Dimonte, V.; Campagna, S. "Time spent on activities that can be delegated and reasons for not delegating among acute care
+nurses: A mixed‐methods study" in JOURNAL OF ADVANCED NURSING https://iris.unito.it/bitstream/2318/1997591/3/Time%20spent%20on%20activities_post-print.pdf ]
+
+"L'informatica può ridurre il tasso di errori medici nelle pratiche sanitarie, creando e supportando vari effetti. Migliora la comunicazione, rende la conoscenza più accessibile, richiede informazioni chiave, aiuta con i calcoli, esegue controlli in tempo reale, assiste il monitoraggio e fornisce supporto alle decisioni. Può migliorare significativamente la sicurezza dell'assistenza medica strutturando le azioni, intercettando gli errori e portando un supporto decisionale basato sull'evidenza e centrato sul paziente direttamente nel punto di cura".
+
+[ Jayesh Bhatt Information technology to reduce medical errors: An overview https://www.researchgate.net/publication/270220055_Information_technology_to_reduce_medical_errors_An_overview ]
+
+
+
 
 ## Conclusione
 
 Ribadisci brevemente i punti principali della tua proposta e i benefici che ne deriverebbero per il Sistema Paese.
 
+La Sanità Digitale è l'utilizzo delle tecnologie dell'informazione e della comunicazione (TIC) per migliorare l'assistenza sanitaria, rendendola più accessibile, efficiente e personalizzata per il paziente. Include strumenti come il Fascicolo Sanitario Elettronico (FSE) e la Cartella Clinica Elettronica per la condivisione dei dati clinici, la telemedicina per le consultazioni a distanza e applicazioni per il monitoraggio della salute, il tutto con l'obiettivo di porre il cittadino al centro del processo di cura. 
+
+####Benefici della sanità digitale
+
+* __Maggiore accessibilità__: i pazienti possono ricevere cure e servizi senza spostarsi fisicamente dalla propria abitazione.
+* __Migliore efficienza__: ottimizza i costi, riduce le liste d'attesa e migliora la gestione delle risorse sanitarie.
+* __Personalizzazione delle cure__: l'uso dei dati per una diagnosi più precisa e un trattamento personalizzato.
+* __Rafforzamento del ruolo del paziente__: il cittadino è messo al centro, con un maggiore accesso e controllo sulle proprie informazioni sanitarie. 
+
 ## Ministeri di riferimento
 Ministero della salute. 
 
 ## Budget
-Nel 2023 l’Italia ha speso circa 2,23 miliardi di Euro per la Sanità Digitale, l’importo è salito a 2,47 miliardi di Euro nel 2024, soprattutto per i maggiori investimenti legati al PNRR. Questa spesa comprende tutta la parte di software e servizi ICT, nonché hardware. Una stima ritiene la spesa per la sanità digitale in Italia crescente, ma in maniera decrescente tale da portare la spesa pubblica per la Sanità Digitale in Italia a 3.03 miliardi di Euro nel 2026 (con un CAGR del 10.8%). Se da un lato vi è un rischio concreto che si manifesterà se non si definirà una strategia di finanziamento a lungo termine, che vada oltre i fondi del PNRR, dall’altro, l’esperienza del passato . In linea di principio la spesa dovrebbe mantenere un tasso di crescita non si prevedono aumenti ulteriori nel breve periodo per la Sanità Digitale
+Nel 2023 l’Italia ha speso circa 2,23 miliardi di Euro per la Sanità Digitale, l’importo è salito a 2,47 miliardi di Euro nel 2024, soprattutto per i maggiori investimenti legati al PNRR. Questa spesa comprende tutta la parte di software e servizi ICT, nonché hardware. Una stima ritiene la spesa per la sanità digitale in Italia crescente, ma in maniera decrescente tale da portare la spesa pubblica per la Sanità Digitale in Italia a 3.03 miliardi di Euro nel 2026 (con un CAGR del 10.8%). Se da un lato vi è un rischio concreto che si manifesterà se non si definirà una strategia di finanziamento a lungo termine, che vada oltre i fondi del PNRR, dall’altro, l’esperienza del passato, con i tagli alla tecnologia, ha dato sufficiente dimostrazione che un taglio sulla SD comporta sì un risparmio (al massimo di ~€3mld) ma sul medio periodo un aggravio per le questioni presentate in questo PP. Poiché non si prevedono aumenti ulteriori nel breve periodo per la Sanità Digitale oltre a quanto già allocato con il PNRR, la spesa per la SD dovrebbe mantenere un tasso di crescita in linea con l'aumento della spesa per la sanità. Nel triennio 2025-2027, la spesa sanitaria è prevista crescere a un tasso medio annuo del 2,3 per cento; la spesa sanitaria pubblica totale che arriverà nel 2070 al 7,2% del PIL [nota MEF, Dipartimento della Ragioneria generale dello Stato, Studi e pubblicazioni, "Le tendenze di medio-lungo periodo del sistema pensionistico e socio-sanitario. Rapporto n. 25 - Nota di aggiornamento" 2024 ] .
 
 
 
@@ -245,6 +269,7 @@ _Sistemi di Infusione Smart_: pompe per infusione "intelligenti" che, pur non es
 [^16]: Esistono diverse ragioni, sia legali che pratiche, per cui un attacco informatico nel settore sanitario potrebbe non essere divulgato: le normative sulla privacy (come il GDPR in Europa e l'HIPAA negli Stati Uniti) impongono la notifica pubblica solo in caso di violazione di dati sensibili dei pazienti. Se un attacco, come un attacco DDoS che blocca i servizi o un malware che viene neutralizzato prima di compromettere i dati, non comporta il furto di informazioni personali, non vi è un obbligo di notifica pubblica. Altre ragioni per la sottorappresentazione, possono dipendere dal _danno Reputazionale_, le organizzazioni sanitarie, come gli ospedali, si basano sulla fiducia dei pazienti e eivelare di essere stati vittima di un attacco cyber può minare questa fiducia causando un grave danno d'immagine, ma anche una _minore visibilità delle piccole strutture_ e una minore presenza sui canali d'informazione.
 
 [^17]:
+
 
 
 
