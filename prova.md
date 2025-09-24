@@ -4,8 +4,10 @@ Sanità Digitale (SD) (digital health)
 
 *Autore: Lorenzo Giollo*
 
+
 ## Keywords
 Sanità digitale (SD), Digital Health, Cartella Clinica Elettronica, Fascicolo Sanitario Elettronico, Telemedicina, Intelligenza Artificiale.
+
 
 ## Executive Summary
 La spesa sanitaria sta aumentando per effetto di una complessa combinazione di fattori. E' a rischio la sostenibilità del sistema sanitario. In particolare, i due fattori principali sono l’invecchiamento della popolazione e l’aumento dell’incidenza delle malattie croniche. A questi si aggiungono il cattivo coordinamento e uso delle risorse disponibili (anche per la frammentazione del sistema italiano), ma anche altri fattori come l’aumento dei costi di nuovi farmaci e tecnologie. 
@@ -18,6 +20,7 @@ L’uso di soluzioni informatiche (IT e anche ICT) permette la continuità e la 
 
 Inoltre l’uso estensivo di SD favorisce l’uso delle informazioni e i Big Data generati ai fini di ricerca biomedica e farmaceutica (ovviamente con parametri etici e di anonimizzazione dei dati).
 Sebbene di importanza secondaria, non va infine trascurato l’aspetto che la tecnologia digitale è ormai talmente radicata nella vita quotidiana che i cittadini si aspettano di trovare nella sanità strumenti digitali capaci di semplificare l’accesso alle cure e alle informazioni.
+
 
 ## Contesto
 La spesa sanitaria sta aumentando [^1] per effetto di una complessa combinazione di fattori, che includono sia questioni legate alla domanda che all'offerta. 
@@ -46,6 +49,7 @@ La spesa sanitaria sta aumentando [^1] per effetto di una complessa combinazione
   
 La digitalizzazione offre risposte efficaci a tutti questi fattori, come spiegato in dettaglio di seguito.
 
+
 ## Posizione
 * La sanità digitale (SD) garantisce __benefici tangibili__ per l'intero sistema. L'adozione di soluzioni tecnologiche, come le cartelle cliniche elettroniche, la telemedicina e l'intelligenza artificiale, rende il sistema più efficiente, migliora i processi, riduce gli sprechi, soprattutto mette il paziente al centro delle cure e dell’assistenza, che possono essere personalizzate. In particolare la telemedicina, riduce i costi di ospedalizzazione, migliora la qualità della vita dei pazienti,  aiuta a superare le barriere geografiche (ad es. isole e zone montane).
   
@@ -56,6 +60,7 @@ La digitalizzazione offre risposte efficaci a tutti questi fattori, come spiegat
 * La SD gioca un ruolo cruciale nella __prevenzione__, sia primaria che secondaria. Strumenti come le app per il monitoraggio della salute e i dispositivi indossabili incoraggiano stili di vita più sani e la consapevolezza del proprio benessere. Inoltre, a livello di sistema, le tecnologie digitali sono fondamentali per l'efficacia dei programmi di screening. Consentono l'invio automatizzato di promemoria per esami periodici, la gestione centralizzata delle prenotazioni e la comunicazione rapida dei risultati, migliorando la partecipazione dei cittadini e l'efficacia complessiva delle campagne di prevenzione di massa.
 
 * La SD permette anche di raccogliere moli di dati immense (Big Data) che possono poi essere utilizzati a fini di ricerca per, ad esempio, la creazione di nuovi farmaci, l’implementazione di nuove tecnologie o campi emergenti (medicina molecolare e personalizzata, medicina rigenerativa, robotica, ecc.).
+
 
 ## Proposta
 1. Attribuzione delle funzioni di regia, controllo e monitoraggio ad AGENAS
@@ -124,7 +129,6 @@ Analizzando questi dati integrati, algoritmi di Intelligenza Artificiale (AI) e 
 * __Citizen Science__: Strumenti digitali e app mobili consentono al pubblico di partecipare alla raccolta dati, segnalando comportamenti insoliti negli animali, fauna selvatica morta o problemi ambientali. Questo “crowdsourcing” dei dati aggiunge un ulteriore livello di sorveglianza e coinvolgimento della comunità all’interno del framework One Health.
 
 ### 5. Intelligenza Artificiale (IA o AI)
-
 L'uso dell'IA in sanità è in rapida crescita e sta rivoluzionando diversi settori, dalla ricerca clinica alla gestione quotidiana degli ospedali. L'IA non sostituisce i professionisti, ma agisce come un potente strumento per renderli più efficienti e migliorare i risultati per i pazienti.
 L'uso dell'Intelligenza Artificiale in sanità solleva importanti questioni etiche che non possono essere ignorate [^16]. Se da un lato l'IA promette di migliorare l'assistenza, dall'altro introduce nuove sfide su come viene sviluppata e applicata in modo responsabile. Si rimanda ad altri PP specifici sul tema e al _PP generale del GT Sanità_.
 
@@ -163,6 +167,7 @@ Riprendendo quanto in premessa, bisogna evidenziare un problema fondamentale e s
 Il risultato è un'interfaccia spesso confusa e poco intuitiva, che richiede un numero eccessivo di passaggi per eseguire azioni semplici, come registrare un dato o accedere a una cartella clinica. 
 A volte lo scenario è complicato da requisiti di sicurezza estremi che richiedono la continua ri-connessione al software. Questo non solo genera frustrazione (in casi estremi comporta l’abbandono dell’uso del software o la delega ad altri nell’uso dello stesso) e rallenta il lavoro, ma può aumentare il rischio di errori clinici, è quindi a rischio la sicurezza del paziente. Migliorare la UX in sanità non è un vezzo estetico, ma un requisito critico per l'efficienza, la sicurezza e l'accettazione da parte degli operatori.
 
+
 ## Argomentazioni
 
 ### Argomento 1
@@ -190,8 +195,9 @@ __Accesso e monitoraggio da remoto__: Si riducono le ospedalizzazioni con vantag
 
 __Ricerca e innovazione__: Abilita l'uso secondario dei dati sanitari (in forma anonima e aggregata) per la ricerca, permettendo di identificare tendenze, migliorare i protocolli di cura e far progredire la medicina.
 
+
 ## Contro-argomentazioni
-Anticipa obiezioni e rispondi in modo efficace.
+
 ### Controargomentazione 1: La spesa per SD è una spesa aggiuntiva che peggiora il bilancio dello Stato. 
 LA spesa per la sanità digitale è attualmente in italia inferiore ai € 3 mld. Ci si attende una crescita, soprattutto legata all’implementazione dell’IA, ma i benefici dimostrati superano i costi. Come riportato nelle fonti, numerosi studi, già citati nel presente PP, dimostrano i benefici dell’adozione della digitalizzazione in termini di contenimento della spesa (per effetto di maggiore efficienza, controllo e quindi riduzione degli sprechi). C’è poi il caso reale dell’Italia che ha tagliato i costi per la sanità linearmente nel 2010 come conseguenza della crisi iniziata nel 2008. L’evidenza dei fatti ha persuaso le amministrazioni sanitarie a riprendere gli investimenti in digitalizzazione nonostante il cap alla spesa perché hanno provato direttamente gli effetti negativi della non digitalizzazione [^18].
 
@@ -203,7 +209,6 @@ La digitalizzazione automatizza le attività amministrative e di routine, come l
 
 
 ## Conclusione
-
 La Sanità Digitale è l'utilizzo delle tecnologie dell'informazione e della comunicazione (TIC) per migliorare l'assistenza sanitaria, rendendola più accessibile, efficiente e personalizzata per il paziente. Include strumenti come il Fascicolo Sanitario Elettronico (FSE) e la Cartella Clinica Elettronica per la condivisione dei dati clinici, la telemedicina per le consultazioni a distanza e applicazioni per il monitoraggio della salute, il tutto con l'obiettivo di porre il cittadino al centro del processo di cura. 
 
 ####Benefici della sanità digitale
@@ -211,10 +216,12 @@ La Sanità Digitale è l'utilizzo delle tecnologie dell'informazione e della com
 * __Maggiore accessibilità__: i pazienti possono ricevere cure e servizi senza spostarsi fisicamente dalla propria abitazione.
 * __Migliore efficienza__: ottimizza i costi, riduce le liste d'attesa e migliora la gestione delle risorse sanitarie.
 * __Personalizzazione delle cure__: l'uso dei dati per una diagnosi più precisa e un trattamento personalizzato.
-* __Rafforzamento del ruolo del paziente__: il cittadino è messo al centro, con un maggiore accesso e controllo sulle proprie informazioni sanitarie. 
+* __Rafforzamento del ruolo del paziente__: il cittadino è messo al centro, con un maggiore accesso e controllo sulle proprie informazioni sanitarie.
+  
 
 ## Ministeri di riferimento
 Ministero della salute. 
+
 
 ## Budget
 Nel 2023 l’Italia ha speso circa 2,23 miliardi di Euro per la Sanità Digitale, l’importo è salito a 2,47 miliardi di Euro nel 2024, soprattutto per i maggiori investimenti legati al PNRR. Questa spesa comprende tutta la parte di software e servizi ICT, nonché hardware. Una stima ritiene la spesa per la sanità digitale in Italia crescente, ma in maniera decrescente tale da portare la spesa pubblica per la Sanità Digitale in Italia a 3.03 miliardi di Euro nel 2026 (con un CAGR del 10.8%). Se da un lato vi è un rischio concreto che si manifesterà se non si definirà una strategia di finanziamento a lungo termine, che vada oltre i fondi del PNRR, dall’altro, l’esperienza del passato, con i tagli alla tecnologia, ha dato sufficiente dimostrazione che un taglio sulla SD comporta sì un risparmio (al massimo di ~€3mld) ma sul medio periodo un aggravio per le questioni presentate in questo PP. Poiché non si prevedono aumenti ulteriori nel breve periodo per la Sanità Digitale oltre a quanto già allocato con il PNRR, la spesa per la SD dovrebbe mantenere un tasso di crescita in linea con l'aumento della spesa per la sanità. Nel triennio 2025-2027, la spesa sanitaria è prevista crescere a un tasso medio annuo del 2,3 per cento; la spesa sanitaria pubblica totale che arriverà nel 2070 al 7,2% del PIL [^21].
@@ -235,7 +242,7 @@ Alcune proeizioni, mostrano un aumento considerevole della sanità digitale a li
 
 
 
- [^1]: Secondo il DFP (documento di finanza pubblica), la sola spesa sanitaria pubblica è destinata a crescere dai 138,3 miliardi di euro del 2024 ai 151,6 miliardi nel 2027 (CAGR ~3,1%) https://www.quotidianosanita.it/governo-e-parlamento/articolo.php?articolo_id=129022&fr=n || Il Report Osservatorio GIMBE 2/2025 mostra l’andamento in termini nominali, dal 2012 al 2023, della spesa sanitaria pubblica (da 108 a 130 miliardi €, CAGR ~1,7%), privata i) out of pocket (da 31,5 a 40,6 € mld, CAGR ~2.3%) e ii) intermediate (da 2,9 a 5,2 € mld, CAGR ~5,5%).
+[^1]: Secondo il DFP (documento di finanza pubblica), la sola spesa sanitaria pubblica è destinata a crescere dai 138,3 miliardi di euro del 2024 ai 151,6 miliardi nel 2027 (CAGR ~3,1%) https://www.quotidianosanita.it/governo-e-parlamento/articolo.php?articolo_id=129022&fr=n || Il Report Osservatorio GIMBE 2/2025 mostra l’andamento in termini nominali, dal 2012 al 2023, della spesa sanitaria pubblica (da 108 a 130 miliardi €, CAGR ~1,7%), privata i) out of pocket (da 31,5 a 40,6 € mld, CAGR ~2.3%) e ii) intermediate (da 2,9 a 5,2 € mld, CAGR ~5,5%).
 
 [^2]: Si prevede che entro il 2050 gli over 65 passeranno dall'attuale 24,3% a circa il 34,6% del totale. Fonte https://www.istat.it/tag/previsioni-demografiche/  e in particolare https://www.istat.it/comunicato-stampa/previsioni-della-popolazione-residente-e-delle-famiglie-base-1-1-2024/ 
 
@@ -283,7 +290,8 @@ _Sistemi di Infusione Smart_: pompe per infusione "intelligenti" che, pur non es
 
 [^22]: Europe Digital MArket and Size https://www.mordorintelligence.com/industry-reports/europe-digital-health-market  || https://www.marketresearchfuture.com/reports/italy-digital-healthcare-market-43945  a modesto parere dello scrivente e per report e analisi di mercato soggette a riservatezza che non possono essere qui rappresentate, queste cifre sono completamente "sballate". Un problema, ad esempio, è quello della tassonomia e di cosa vada riconpreso nella definizione eHealth (alcuni studi di mercato includono nella sanità digitale anche gli investimenti per l'acquisto delle licenze dei sistemi operativi, tipo Windows...).
 
-[^23]: Per comprendere la dimensione attuale dell'AI in sanità (pubblica) si consideri che ad oggi sono stati bandite due gare Consip di "Sanità digitale" - all'interno del PNRR, Missione 6 - dedicate all'AI una, nel 2023 per circa €450 milioni (parte inclusiva AI), l'altra nel 2025 per complessivi €660 milioni circa. Un totale di circa € 1.1 miliardi spalmati in più anni e, in entrambi i casi l'AI è una parte del capitolato, gli importi strettamente dedicati all'AI sono quindi inferiori. https://www.consip.it/bandi/gara-sanita-digitale-sistemi-informativi-gestionali || https://www.consip.it/bandi/sanita-digitale-data-governance-e-artificial-intelligence ]
+[^23]: Per comprendere la dimensione attuale dell'AI in sanità (pubblica) si consideri che ad oggi sono stati bandite due gare Consip di "Sanità digitale" - all'interno del PNRR, Missione 6 - dedicate all'AI una, nel 2023 per circa €450 milioni (parte inclusiva AI), l'altra nel 2025 per complessivi €660 milioni circa. Un totale di circa € 1.1 miliardi spalmati in più anni e, in entrambi i casi l'AI è una parte del capitolato, gli importi strettamente dedicati all'AI sono quindi inferiori. https://www.consip.it/bandi/gara-sanita-digitale-sistemi-informativi-gestionali || https://www.consip.it/bandi/sanita-digitale-data-governance-e-artificial-intelligence || Si veda anche https://ai-watch.ec.europa.eu/countries/italy/italy-ai-strategy-report_en
+
 
 
 
