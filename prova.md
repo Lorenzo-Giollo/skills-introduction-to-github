@@ -228,8 +228,139 @@ Nel 2023 l’Italia ha speso circa 2,23 miliardi di Euro per la Sanità Digitale
 Alcune proeizioni, mostrano un aumento considerevole della sanità digitale a livello globale, europeo e italiano con tassi di crescita di oltre il 18% [^22]. Bisogna però segnalare che in queste proiezioni molto dell'incremento è legato allo sviluppo dell'AI che include investimenti in hardware (data center) e che in Italia non sono previsti investimenti di tale portata se non in ipotesi di partenariato pubblico-privato [^23]. 
 
 
+## Fonti e Riferimenti
+Le fonti sono numerose, per semplicità di lettura, si riportano di seguito quelle più significative suddivise per paragrafo.
+
+#### Executive Summary
+https://www.oecd.org/en/topics/health-spending-and-financial-sustainability.html
+https://www.quotidianosanita.it/governo-e-parlamento/articolo.php?articolo_id=129022&fr=n
+https://tuttowelfare.info/ssn-e-spesa-sanitaria-in-italia-sempre-piu-a-carico-dei-cittadini/
+https://salviamo-ssn.it/var/contenuti/Report_Osservatorio_GIMBE_2025.02_Spesa_sanitaria_privata_2023.pdf
+https://noi-italia.istat.it/pagina.php?id=3&categoria=6&action=show&L=0
+https://www.quotidianosanita.it/governo-e-parlamento/articolo.php?articolo_id=125569
+https://www.researchgate.net/publication/384065119_How_Digital_Health_is_Revolutionizing_Healthcare_and_Contributing_to_Positive_Health_Outcomes
+https://www.eu-patient.eu/policy/Policy/eHealth/
 
 
+#### Contesto
+QUI https://www.istat.it/tag/previsioni-demografiche/  E IN DETTAGLIO https://www.istat.it/comunicato-stampa/previsioni-della-popolazione-residente-e-delle-famiglie-base-1-1-2024/ 
+https://www.istat.it/it/files/2023/05/Istat-Testo-Commissione-Affari-Sociali-05-maggio-2023.pdf
+
+https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Healthcare_expenditure_statistics_-_overview
+
+https://osservatoriosullasalute.it/wp-content/uploads/2024/01/05_ROS1.pdf
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6351821/
+https://trendsanita.it/spesa-sanitaria-out-of-pocket-nel-2023-supera-i-40-miliardi-ma-quasi-il-40-e-per-servizi-e-prestazioni-inutili/
+https://www.fondoasim.it/spesa-sanitaria-malattie-croniche/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5980797/
+https://jamanetwork.com/journals/jama-health-forum/fullarticle/2827325
+https://www.pwc.com/us/en/industries/health-industries/library/behind-the-numbers.html
+https://www.experian.com/blogs/healthcare/how-automation-can-reduce-administrative-costs-in-healthcare/
+
+
+#### Posizione
+https://www.agendadigitale.eu/sanita/pnrr-sanita-la-lenta-metamorfosi-digitale-del-ssn/
+https://www.agendadigitale.eu/sanita/
+https://www.agendadigitale.eu/sanita/xx-rapporto-crea-sanita-digitale-volano-trasformazione-ssn/
+https://www.mahalo.health/insights/how-is-technology-revolutionizing-preventive-healthcare
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7010403/
+https://www.jnjmedicalcloud.it/it-it/services/news-center/blta9a4503df3d0efff
+
+
+#### Proposta
+https://www.agenas.gov.it/comunicazione/primo-piano/2464-piattaforma-nazionale-di-telemedicina-avvio-della-popolazione-dati-con-regioni-pilota
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500327
+https://www.ama-assn.org/practice-management/digital-health/what-telehealth
+https://www.elationhealth.com/resources/blogs/virtual-care-vs-telehealth-understanding-the-distinctions
+https://makingpharmaindustry.it/digital-health-2/terapie-digitali/terapie-digitali-la-sfida-della-validazione-clinica/
+https://www.news-medical.net/news/20170914/FDA-permits-first-digital-therapeutic-device-for-treatment-of-substance-use-disorders.aspx
+https://www.prnewswire.com/news-releases/fda-permits-marketing-of-mobile-medical-application-for-substance-use-disorder-300519731.html
+https://www.visante.com/insights/blogs-videos/benefits-of-home-infusion-therapy/
+https://www.bbraun.it/it/prodotti-e-soluzioni/terapie/terapia-infusionale/sistemi-infusione-automatizzati.html
+https://med.stanford.edu/news/all-news/2018/11/ai-outperformed-radiologists-in-screening-x-rays-for-certain-diseases.html
+https://nolomed.it/2025/01/02/come-lia-sta-cambiando-la-diagnosi-medica-unanalisi-approfondita/
+https://www.policlinico.mi.it/news/2024-11-08/4295/intelligenza-artificiale-migliora-la-precisione-nella-diagnostica-per-immagini
+https://pubmed.ncbi.nlm.nih.gov/30987397/
+https://pubs.acs.org/doi/10.1021/acsomega.5c00549
+https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1550731/full
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5996174/
+https://www.splashtop.com/blog/importance-of-cybersecurity-in-healthcare
+https://www.researchgate.net/publication/366267376_Cyber_Security_as_a_Threat_to_Health_Care
+https://www.techradar.com/pro/why-95-percent-of-phishing-attacks-go-unreported-in-healthcare
+https://www.who.int/health-topics/one-health#tab=tab_1
+https://www.fao.org/one-health/highlights/the-role-of-ict-for-one-health/en
+https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.768977/full
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10751116/
+Un esempio di monitoraggio della salute animale a livello mondiale https://empres-i.apps.fao.org/general
+https://www.onehealthcommission.org/en/resources__services/one_health_tools__toolkits/
+https://www.infermiereonline.org/2024/10/08/le-competenze-digitali-dei-professionisti-sanitari-nellera-delle-health/
+Strategia Generale di Accrescimento delle Competenze Digitali DIGITAL SKILLS TO INCREASE QUALITY AND RESILIENCE OF THE HEALTH SYSTEM IN ITALY - REFORM/SC2022/047 
+https://www.researchgate.net/publication/388786228_Empowering_Health_Professionals_with_Digital_Skills_to_Improve_Patient_Care_and_Daily_Workflows
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11376139/
+https://www.lyssna.com/blog/healthcare-ux-design/
+
+
+#### Controargomentazioni
+https://www.researchgate.net/publication/270220055_Information_technology_to_reduce_medical_errors_An_overview
+Conti, A.; Gonella, S.; Berardinelli, D.; Dimonte, V.; Campagna, S. "Time spent on activities that can be delegated and reasons for not delegating among acute care
+nurses: A mixed‐methods study" in JOURNAL OF ADVANCED NURSING https://iris.unito.it/bitstream/2318/1997591/3/Time%20spent%20on%20activities_post-print.pdf
+
+
+#### Budget 
+https://www.osservatori.net/comunicato/sanita-digitale/sanita-digitale-spesa-italia/
+https://www.quotidianosanita.it/studi-e-analisi/articolo.php?articolo_id=129797
+https://www.quotidianosanita.it/lavoro-e-professioni/articolo.php?articolo_id=127124
+https://www.anitec-assinform.it/media/comunicati-stampa/sanita-digitale-in-italia-superare-le-criticita-puntando-sull-innovazione.kl
+https://www.osservatori.net/comunicato/sanita-digitale/sanita-digitale-italia-investimenti/ 
+
+
+
+## Appendice
+Per dare un quadro semplificato delle soluzioni disponibili per la sanità digitale, si seguito si raggruppano le soluzioni per ambito di utilizzo. 
+Idealmente, digitalizzare tutto il sistema significa ottenere il massimo dei benefici. 
+
+_NOTA: Già ora infatti, la frammentazione tra regioni e all’interno delle stesse regioni, di fatto annulla i benefici della digitalizzazione già avvenuta. Se per esempio un ospedale utilizza una CCE, ma non dispone di un LIS integrato, i medici dovranno ricopiare manualmente i dati di laboratorio con evidenti problemi di possibili errori. Ulteriori limiti e problemi: il limite intrinseco di non mantenere traccia dell’evoluzione clinica del paziente, l'impossibilità di usare i dati in maniera aggregata anonimizzata ai fini di ricerca; il limite all'utilizzo di AI https://www.nature.com/articles/s41746-025-01442-3  https://www.jmir.org/2025/1/e69465_
+
+
+### A) Sistemi centrali di gestione clinica e ospedaliera 
+Costituiscono il "sistema nervoso centrale" di un'organizzazione sanitaria. Gestiscono le principali funzioni amministrative e cliniche.
+i) Sistema Informativo Ospedaliero (SIO): la piattaforma onnicomprensiva che integra tutte le operazioni di un ospedale, inclusi gli aspetti amministrativi, finanziari e clinici. Un SIO principalmente include le seguenti funzioni:
+* Gestione del paziente: ammissione, dimissione e trasferimento (ADT), programmazione degli appuntamenti e alla registrazione dei pazienti. Il sistema gestisce, all’interno dell’ospedale, tutte le attività amministrative relative al paziente.
+* Informazioni cliniche: funge da hub centrale per i dati dei pazienti, inclusi le cartelle Cartella Clinica Elettronica (CCE): la componente clinica principale del SIO. È la cartella digitale del paziente che contiene la sua storia medica, i risultati di laboratorio, le diagnosi e altro ancora.
+* Integrazione tra reparti: un SIO collega e integra sistemi specializzati utilizzati in diversi reparti, come LIS, RIS, PACS (infra)
+* Gestione amministrativa e finanziaria: automatizza i processi aziendali come la fatturazione, la gestione delle richieste di risarcimento assicurativo, la contabilità e la gestione dell'inventario per farmaci e forniture mediche.
+* Supporto alle decisioni: un SIO può fornire agli operatori clinici un supporto decisionale offrendo avvisi su potenziali interazioni farmacologiche, allergie o altri problemi di sicurezza.
+Analisi dei dati e reporting: un SIO raccoglie enormi quantità di dati che possono essere analizzati per identificare tendenze, ottimizzare l'allocazione delle risorse e migliorare le prestazioni complessive dell'ospedale e gli esiti dei pazienti.
+
+ii) Software di Gestione dello Studio Medico (Practice Management Software - PMS): simile a un SIO ma scalato per cliniche o studi medici più piccoli come quelli del MMG. Si concentra su attività amministrative come la programmazione degli appuntamenti, la fatturazione e la registrazione dei pazienti.
+
+### B) Sistemi dipartimentali e specializzati
+Sono sottosistemi specializzati che fanno spesso parte di un SIO più grande ma possono anche esistere come sistemi indipendenti.
+* Sistema Informativo di Laboratorio (SIL/LIS): gestisce il flusso di lavoro del laboratorio di patologia, dall'ordinazione dei test al tracciamento dei campioni e alla refertazione dei risultati.
+* Sistema Informativo di Radiologia (SIR/RIS) / Sistema di Archiviazione e Comunicazione delle Immagini (PACS): il SIR gestisce il flusso di lavoro del reparto di radiologia (programmazione, referti), mentre il PACS serve per archiviare e gestire le immagini mediche (raggi X, risonanze magnetiche, TAC).
+* Sistema Informativo Farmaceutico (SIF): gestisce tutti gli aspetti della farmacia ospedaliera, compreso l'inventario dei farmaci, la dispensazione e il tracciamento delle prescrizioni.
+* Sistema di Gestione della Sala Operatoria (Operating Room Management System - ORMS): specificamente progettato per gestire la complessa logistica della sala operatoria, inclusi la programmazione, l'allocazione delle risorse e la refertazione chirurgica. Altri sw simili: Software per la Gestione del Flusso Pazienti (Patient Flow Management); Sistemi di Pianificazione e Schedulazione (Appointment & Resource Scheduling - v. infra CUP); Sistemi di Gestione del Magazzino e della Catena di Fornitura (Supply Chain Management): la funzione è quella di organizzare, pianificare e ottimizzare in tempo reale l'intero flusso di lavoro di aree ad alta complessità.
+* I software per l'accesso alle cure, come quelli utilizzati dai CUP (Centri Unici di Prenotazione), descritti nel PP (supra).
+* I software per la gestione dei PDTA (Percorso Diagnostico Terapeutico Assistenziale) sono uno strumento di sanità digitale che gestiscono, standardizzano e monitorano l'intero percorso clinico di un paziente per una specifica patologia. Il sistema gestisce tutte le attività amministrative, di cura, di comunicazione (tra tutti gli operatori sanitari), monitoraggio, controllo, appropriatezza relative al paziente, __sia all’interno che all’esterno della struttura ospedaliera__ e integrate nei sistemi informativi sanitari.
+* Raccolta Dati e Analisi: i sw raccolgono una grande quantità di dati sulle performance, come ad es. la durata degli interventi, il tempo di turnaround (il tempo tra un intervento e il successivo) e l'utilizzo delle risorse. Questi dati vengono poi analizzati dai sw di business intelligence (BI) per identificare inefficienze e migliorare i processi.
+
+
+### C) Sistemi di supporto decisionale e analisi dei dati
+Sono sistemi che sfruttano i dati per migliorare gli esiti clinici, l'efficienza operativa e la salute della popolazione.
+Sistema di Supporto alle Decisioni Cliniche (CDSS): software che analizza i dati dei pazienti per fornire ai medici raccomandazioni, avvisi (ad es. interazioni farmacologiche) e promemoria nel momento della cura.
+Strumenti di Analisi Sanitaria / Business Intelligence (BI): sistemi che raccolgono e analizzano grandi quantità di dati dal SIO e da altre fonti per identificare tendenze, misurare le prestazioni e supportare la pianificazione strategica. I software per l'appropriatezza delle cure sono strumenti di sanità digitale che supportano medici e amministratori nella scelta del percorso diagnostico-terapeutico più efficace ed efficiente, basandosi su linee guida cliniche e dati storici. L'obiettivo è ridurre l'uso inappropriato di test, procedure e farmaci costosi, evitando sprechi e ottimizzando la spesa sanitaria.
+Software di Gestione della Salute della Popolazione (Population Health Management - PHM): questi strumenti aggregano i dati per identificare e gestire i bisogni di salute di specifiche popolazioni di pazienti, spesso concentrandosi sulla prevenzione e sulla gestione delle malattie croniche.
+
+### D) Sistemi amministrativi e finanziari
+Sono gli strumenti aziendali che assicurano la salute finanziaria e operativa dell'organizzazione. In  Italia, sostanzialmente, ERP per la Sanità (Enterprise Resource Planning): un sistema completo che gestisce i processi aziendali dell'ospedale, inclusi contabilità, catena di approvvigionamento e risorse umane. Attualmente si usano sw DRG-Grouper (Diagnosis Related Group) integrati con la SDO (scheda Dimissione Ospedaliera). Questi sw permettono di valorizzare la produzione ospedaliera in termini di ricoveri e sono indispensabili per il sistema di rimborso.
+In ottica di una possibile integrazione pubblico privata, va contemplato anche un Software di Fatturazione Medica e Codifica che automatizza il processo di generazione delle fatture e di invio delle richieste di rimborso assicurative (o i DRG), spesso con funzionalità per la codifica di diagnosi e procedure. (DRG - Diagnosis-Related Group - è un sistema di classificazione dei pazienti dimessi dagli ospedali in gruppi omogenei per l'uso delle risorse, utilizzato in Italia anche con la sigla italiana ROD - Raggruppamenti Omogenei di Diagnosi. Serve a quantificare i costi di ciascun ricovero, definire tariffe di rimborso e controllare la spesa sanitaria, permettendo di remunerare gli ospedali in base a un costo standard per gruppo.
+
+
+### E) Sistemi per il paziente e l'interazione
+Questi sistemi sono progettati per interagire direttamente con i pazienti e per metterli in condizione di gestire la propria salute.
+* Piattaforme di Telemedicina / Telesalute: consentono servizi clinici a distanza, come video-consultazioni, monitoraggio remoto dei pazienti (RPM) e visite elettroniche.
+* Portali Pazienti: piattaforme online sicure che consentono ai pazienti di accedere alle proprie cartelle cliniche, visualizzare i risultati di laboratorio, programmare appuntamenti, richiedere il rinnovo di ricette e comunicare con il proprio team di cura.
+* Fascicolo Sanitario Elettronico (FSE / Personal Health Record - PHR): una cartella elettronica di informazioni sanitarie gestita dal paziente stesso. A differenza della CCE (gestita dall'operatore sanitario), un FSE è uno strumento a cui può accedere il paziente in una sua area riservata, il "taccuino personale", dove può gestire, cancellare o inserire informazioni relative al proprio percorso di cura e il controllo e dell'accesso ai dati.
 
 
 
@@ -291,6 +422,7 @@ _Sistemi di Infusione Smart_: pompe per infusione "intelligenti" che, pur non es
 [^22]: Europe Digital MArket and Size https://www.mordorintelligence.com/industry-reports/europe-digital-health-market  || https://www.marketresearchfuture.com/reports/italy-digital-healthcare-market-43945  a modesto parere dello scrivente e per report e analisi di mercato soggette a riservatezza che non possono essere qui rappresentate, queste cifre sono completamente "sballate". Un problema, ad esempio, è quello della tassonomia e di cosa vada riconpreso nella definizione eHealth (alcuni studi di mercato includono nella sanità digitale anche gli investimenti per l'acquisto delle licenze dei sistemi operativi, tipo Windows...).
 
 [^23]: Per comprendere la dimensione attuale dell'AI in sanità (pubblica) si consideri che ad oggi sono stati bandite due gare Consip di "Sanità digitale" - all'interno del PNRR, Missione 6 - dedicate all'AI una, nel 2023 per circa €450 milioni (parte inclusiva AI), l'altra nel 2025 per complessivi €660 milioni circa. Un totale di circa € 1.1 miliardi spalmati in più anni e, in entrambi i casi l'AI è una parte del capitolato, gli importi strettamente dedicati all'AI sono quindi inferiori. https://www.consip.it/bandi/gara-sanita-digitale-sistemi-informativi-gestionali || https://www.consip.it/bandi/sanita-digitale-data-governance-e-artificial-intelligence || Si veda anche https://ai-watch.ec.europa.eu/countries/italy/italy-ai-strategy-report_en
+
 
 
 
