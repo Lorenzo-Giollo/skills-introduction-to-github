@@ -322,7 +322,7 @@ Idealmente, digitalizzare tutto il sistema significa ottenere il massimo dei ben
 _NOTA: Già ora infatti, la frammentazione tra regioni e all’interno delle stesse regioni, di fatto annulla i benefici della digitalizzazione già avvenuta. Se per esempio un ospedale utilizza una CCE, ma non dispone di un LIS integrato, i medici dovranno ricopiare manualmente i dati di laboratorio con evidenti problemi di possibili errori. Ulteriori limiti e problemi: il limite intrinseco di non mantenere traccia dell’evoluzione clinica del paziente, l'impossibilità di usare i dati in maniera aggregata anonimizzata ai fini di ricerca; il limite all'utilizzo di AI https://www.nature.com/articles/s41746-025-01442-3  https://www.jmir.org/2025/1/e69465_
 
 
-### A) Sistemi centrali di gestione clinica e ospedaliera 
+#### A) Sistemi centrali di gestione clinica e ospedaliera 
 Costituiscono il "sistema nervoso centrale" di un'organizzazione sanitaria. Gestiscono le principali funzioni amministrative e cliniche.
 i) Sistema Informativo Ospedaliero (SIO): la piattaforma onnicomprensiva che integra tutte le operazioni di un ospedale, inclusi gli aspetti amministrativi, finanziari e clinici. Un SIO principalmente include le seguenti funzioni:
 * Gestione del paziente: ammissione, dimissione e trasferimento (ADT), programmazione degli appuntamenti e alla registrazione dei pazienti. Il sistema gestisce, all’interno dell’ospedale, tutte le attività amministrative relative al paziente.
@@ -334,7 +334,7 @@ Analisi dei dati e reporting: un SIO raccoglie enormi quantità di dati che poss
 
 ii) Software di Gestione dello Studio Medico (Practice Management Software - PMS): simile a un SIO ma scalato per cliniche o studi medici più piccoli come quelli del MMG. Si concentra su attività amministrative come la programmazione degli appuntamenti, la fatturazione e la registrazione dei pazienti.
 
-### B) Sistemi dipartimentali e specializzati
+#### B) Sistemi dipartimentali e specializzati
 Sono sottosistemi specializzati che fanno spesso parte di un SIO più grande ma possono anche esistere come sistemi indipendenti.
 * Sistema Informativo di Laboratorio (SIL/LIS): gestisce il flusso di lavoro del laboratorio di patologia, dall'ordinazione dei test al tracciamento dei campioni e alla refertazione dei risultati.
 * Sistema Informativo di Radiologia (SIR/RIS) / Sistema di Archiviazione e Comunicazione delle Immagini (PACS): il SIR gestisce il flusso di lavoro del reparto di radiologia (programmazione, referti), mentre il PACS serve per archiviare e gestire le immagini mediche (raggi X, risonanze magnetiche, TAC).
@@ -345,18 +345,18 @@ Sono sottosistemi specializzati che fanno spesso parte di un SIO più grande ma 
 * Raccolta Dati e Analisi: i sw raccolgono una grande quantità di dati sulle performance, come ad es. la durata degli interventi, il tempo di turnaround (il tempo tra un intervento e il successivo) e l'utilizzo delle risorse. Questi dati vengono poi analizzati dai sw di business intelligence (BI) per identificare inefficienze e migliorare i processi.
 
 
-### C) Sistemi di supporto decisionale e analisi dei dati
+#### C) Sistemi di supporto decisionale e analisi dei dati
 Sono sistemi che sfruttano i dati per migliorare gli esiti clinici, l'efficienza operativa e la salute della popolazione.
 Sistema di Supporto alle Decisioni Cliniche (CDSS): software che analizza i dati dei pazienti per fornire ai medici raccomandazioni, avvisi (ad es. interazioni farmacologiche) e promemoria nel momento della cura.
 Strumenti di Analisi Sanitaria / Business Intelligence (BI): sistemi che raccolgono e analizzano grandi quantità di dati dal SIO e da altre fonti per identificare tendenze, misurare le prestazioni e supportare la pianificazione strategica. I software per l'appropriatezza delle cure sono strumenti di sanità digitale che supportano medici e amministratori nella scelta del percorso diagnostico-terapeutico più efficace ed efficiente, basandosi su linee guida cliniche e dati storici. L'obiettivo è ridurre l'uso inappropriato di test, procedure e farmaci costosi, evitando sprechi e ottimizzando la spesa sanitaria.
 Software di Gestione della Salute della Popolazione (Population Health Management - PHM): questi strumenti aggregano i dati per identificare e gestire i bisogni di salute di specifiche popolazioni di pazienti, spesso concentrandosi sulla prevenzione e sulla gestione delle malattie croniche.
 
-### D) Sistemi amministrativi e finanziari
+#### D) Sistemi amministrativi e finanziari
 Sono gli strumenti aziendali che assicurano la salute finanziaria e operativa dell'organizzazione. In  Italia, sostanzialmente, ERP per la Sanità (Enterprise Resource Planning): un sistema completo che gestisce i processi aziendali dell'ospedale, inclusi contabilità, catena di approvvigionamento e risorse umane. Attualmente si usano sw DRG-Grouper (Diagnosis Related Group) integrati con la SDO (scheda Dimissione Ospedaliera). Questi sw permettono di valorizzare la produzione ospedaliera in termini di ricoveri e sono indispensabili per il sistema di rimborso.
 In ottica di una possibile integrazione pubblico privata, va contemplato anche un Software di Fatturazione Medica e Codifica che automatizza il processo di generazione delle fatture e di invio delle richieste di rimborso assicurative (o i DRG), spesso con funzionalità per la codifica di diagnosi e procedure. (DRG - Diagnosis-Related Group - è un sistema di classificazione dei pazienti dimessi dagli ospedali in gruppi omogenei per l'uso delle risorse, utilizzato in Italia anche con la sigla italiana ROD - Raggruppamenti Omogenei di Diagnosi. Serve a quantificare i costi di ciascun ricovero, definire tariffe di rimborso e controllare la spesa sanitaria, permettendo di remunerare gli ospedali in base a un costo standard per gruppo.
 
 
-### E) Sistemi per il paziente e l'interazione
+#### E) Sistemi per il paziente e l'interazione
 Questi sistemi sono progettati per interagire direttamente con i pazienti e per metterli in condizione di gestire la propria salute.
 * Piattaforme di Telemedicina / Telesalute: consentono servizi clinici a distanza, come video-consultazioni, monitoraggio remoto dei pazienti (RPM) e visite elettroniche.
 * Portali Pazienti: piattaforme online sicure che consentono ai pazienti di accedere alle proprie cartelle cliniche, visualizzare i risultati di laboratorio, programmare appuntamenti, richiedere il rinnovo di ricette e comunicare con il proprio team di cura.
@@ -422,6 +422,7 @@ _Sistemi di Infusione Smart_: pompe per infusione "intelligenti" che, pur non es
 [^22]: Europe Digital MArket and Size https://www.mordorintelligence.com/industry-reports/europe-digital-health-market  || https://www.marketresearchfuture.com/reports/italy-digital-healthcare-market-43945  a modesto parere dello scrivente e per report e analisi di mercato soggette a riservatezza che non possono essere qui rappresentate, queste cifre sono completamente "sballate". Un problema, ad esempio, è quello della tassonomia e di cosa vada riconpreso nella definizione eHealth (alcuni studi di mercato includono nella sanità digitale anche gli investimenti per l'acquisto delle licenze dei sistemi operativi, tipo Windows...).
 
 [^23]: Per comprendere la dimensione attuale dell'AI in sanità (pubblica) si consideri che ad oggi sono stati bandite due gare Consip di "Sanità digitale" - all'interno del PNRR, Missione 6 - dedicate all'AI una, nel 2023 per circa €450 milioni (parte inclusiva AI), l'altra nel 2025 per complessivi €660 milioni circa. Un totale di circa € 1.1 miliardi spalmati in più anni e, in entrambi i casi l'AI è una parte del capitolato, gli importi strettamente dedicati all'AI sono quindi inferiori. https://www.consip.it/bandi/gara-sanita-digitale-sistemi-informativi-gestionali || https://www.consip.it/bandi/sanita-digitale-data-governance-e-artificial-intelligence || Si veda anche https://ai-watch.ec.europa.eu/countries/italy/italy-ai-strategy-report_en
+
 
 
 
