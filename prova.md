@@ -63,9 +63,9 @@ La digitalizzazione offre risposte efficaci a tutti questi fattori, come spiegat
 
 
 ## Proposta
-1. [Attribuzione delle funzioni di regia, controllo e monitoraggio](#1-Governance-e-Coordinamento-Centralizzato)
+1. [Attribuzione delle funzioni di regia, controllo e monitoraggio](#1-Governance-e-Coordinamento-Centralizzato-oltre-le-disparità-regionali)
 2. [Fasciolo Sanitario Elettronico, Cartella Clinica Elettronica, CUP, BI & Analytics](#2-Implementazione-di-strumenti-digitali-core).
-3. [Telemedicina](#3-Adozione-e-sviluppo-della-Telemedicina)
+3. [Telemedicina](#3-Adozione-e-sviluppo-della-Telemedicina-accessibilità-e-sostenibilità)
 4. [One Health](#4-one-health-equilibrio-sostenibile-tra-salute-umana-animale-ed-ecosistemi)
 5. [AI](#5-ai-in-sanita-innovazione-e-sostenibilita-per-la-salute)
 6. [Cybersecurity](#6-Cybersecurity)
@@ -426,6 +426,7 @@ _Sistemi di Infusione Smart_: pompe per infusione "intelligenti" che, pur non es
 [^22]: Europe Digital MArket and Size https://www.mordorintelligence.com/industry-reports/europe-digital-health-market  || https://www.marketresearchfuture.com/reports/italy-digital-healthcare-market-43945  a modesto parere dello scrivente e per report e analisi di mercato soggette a riservatezza che non possono essere qui rappresentate, queste cifre sono completamente "sballate". Un problema, ad esempio, è quello della tassonomia e di cosa vada riconpreso nella definizione eHealth (alcuni studi di mercato includono nella sanità digitale anche gli investimenti per l'acquisto delle licenze dei sistemi operativi, tipo Windows...).
 
 [^23]: Per comprendere la dimensione attuale dell'AI in sanità (pubblica) si consideri che ad oggi sono stati bandite due gare Consip di "Sanità digitale" - all'interno del PNRR, Missione 6 - dedicate all'AI una, nel 2023 per circa €450 milioni (parte inclusiva AI), l'altra nel 2025 per complessivi €660 milioni circa. Un totale di circa € 1.1 miliardi spalmati in più anni e, in entrambi i casi l'AI è una parte del capitolato, gli importi strettamente dedicati all'AI sono quindi inferiori. https://www.consip.it/bandi/gara-sanita-digitale-sistemi-informativi-gestionali || https://www.consip.it/bandi/sanita-digitale-data-governance-e-artificial-intelligence || Si veda anche https://ai-watch.ec.europa.eu/countries/italy/italy-ai-strategy-report_en
+
 
 
 
