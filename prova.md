@@ -161,10 +161,10 @@ I sistemi robotici basati su IA sono la prossima frontiera. Ai fini del presente
 
 ### 6. Cybersecurity: prevenire le minacce, garantire la fiducia 
 La digitalizzazione espone i dati sanitari a rischi di attacchi informatici, dati USA parlano del 60% delle strutture sanitarie colpite da violazioni via mail nel 2024 (molti casi non vengono diffusi al pubblico [^17]).
-È indispensabile investire in sistemi di cybersecurity robusti e aggiornati, con procedure di gestione delle minacce e di protezione dei dati rigorose. La fiducia dei cittadini nel sistema digitale e la salute dipendono interamente dalla garanzia della privacy e della sicurezza dei loro dati. 
-Sul tema della Cybersecurity, si rimanda al _PP Generale del GT Sanità_.
+È indispensabile investire in sistemi di cybersecurity robusti e aggiornati, con procedure di gestione delle minacce e di protezione dei dati rigorose. La fiducia dei cittadini nel sistema digitale e la salute dipendono interamente dalla garanzia della privacy e della sicurezza dei loro dati. La cybersecurity non è solo tecnologia, ma soprattutto __fattore umano__: la maggior parte degli incidenti nasce da errori, disattenzioni o comportamenti poco consapevoli. La formazione del personale è cruciale, almeno tanto quanto i sistemi di protezione digitale. La sicurezza deve essere affrontata in modo multidimensionale: protezione delle infrastrutture IT, crittografia dei dati, creazione di procedure organizzative chiare,  gestione sicura dei dispositivi medici connessi (soprattutto se in contesto BYOD - Bring your own device). La collaborazione tra tecnici, clinici e management è indispensabile, così come l’aggiornamento continuo delle strategie. Solo un approccio integrato e multilivello può garantire la protezione di dati sensibili e la continuità delle cure.
+Sul tema della Cybersecurity, si rimanda anche al _PP Generale del GT Sanità_.
 
-### 7 Formazione degli operatori sanitari e User Experience
+### 7. Formazione degli operatori sanitari e User Experience
 Per utilizzare l’informatica in sanità, sono necessarie due condizioni preliminari: i) gli operatori sanitari devono saper sfruttare efficacemente la tecnologia in uso; ii) le soluzioni tecnologiche, devono basarsi su fondate conoscenze relative alle specifiche dei processi della sanità.
 
 Medici, infermieri e gli altri operatori sanitari, lavorano per portare la salute ai pazienti. Gli strumenti di SD non devono sottrarre tempo alla pratica delle professioni sanitarie. 
@@ -236,7 +236,7 @@ Alcune proeizioni, mostrano un aumento considerevole della sanità digitale a li
 
 
 ## Fonti e Riferimenti
-Le fonti sono numerose, per semplicità di lettura, si riportano di seguito quelle più significative suddivise per paragrafo.
+Le fonti sono numerose, per semplicità di lettura, si riportano di seguito quelle più significative suddivise per paragrafo (ordinate secondo la progressione del testo, salvo possibili sviste).
 
 #### Executive Summary
 https://www.oecd.org/en/topics/health-spending-and-financial-sustainability.html
@@ -300,6 +300,7 @@ https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.7
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10751116/
 Un esempio di monitoraggio della salute animale a livello mondiale https://empres-i.apps.fao.org/general
 https://www.onehealthcommission.org/en/resources__services/one_health_tools__toolkits/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9123525/?utm_source=chatgpt.com
 https://www.infermiereonline.org/2024/10/08/le-competenze-digitali-dei-professionisti-sanitari-nellera-delle-health/
 Strategia Generale di Accrescimento delle Competenze Digitali DIGITAL SKILLS TO INCREASE QUALITY AND RESILIENCE OF THE HEALTH SYSTEM IN ITALY - REFORM/SC2022/047 
 https://www.researchgate.net/publication/388786228_Empowering_Health_Professionals_with_Digital_Skills_to_Improve_Patient_Care_and_Daily_Workflows
@@ -426,6 +427,7 @@ _Sistemi di Infusione Smart_: pompe per infusione "intelligenti" che, pur non es
 [^22]: Europe Digital MArket and Size https://www.mordorintelligence.com/industry-reports/europe-digital-health-market  || https://www.marketresearchfuture.com/reports/italy-digital-healthcare-market-43945  a modesto parere dello scrivente e per report e analisi di mercato soggette a riservatezza che non possono essere qui rappresentate, queste cifre sono completamente "sballate". Un problema, ad esempio, è quello della tassonomia e di cosa vada riconpreso nella definizione eHealth (alcuni studi di mercato includono nella sanità digitale anche gli investimenti per l'acquisto delle licenze dei sistemi operativi, tipo Windows...).
 
 [^23]: Per comprendere la dimensione attuale dell'AI in sanità (pubblica) si consideri che ad oggi sono stati bandite due gare Consip di "Sanità digitale" - all'interno del PNRR, Missione 6 - dedicate all'AI una, nel 2023 per circa €450 milioni (parte inclusiva AI), l'altra nel 2025 per complessivi €660 milioni circa. Un totale di circa € 1.1 miliardi spalmati in più anni e, in entrambi i casi l'AI è una parte del capitolato, gli importi strettamente dedicati all'AI sono quindi inferiori. https://www.consip.it/bandi/gara-sanita-digitale-sistemi-informativi-gestionali || https://www.consip.it/bandi/sanita-digitale-data-governance-e-artificial-intelligence || Si veda anche https://ai-watch.ec.europa.eu/countries/italy/italy-ai-strategy-report_en
+
 
 
 
