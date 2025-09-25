@@ -68,13 +68,13 @@ La digitalizzazione offre risposte efficaci a tutti questi fattori, come spiegat
 3. [Telemedicina](#3-Adozione-e-sviluppo-della-Telemedicina-accessibilità-e-sostenibilità)
 4. [One Health](#4-one-health-equilibrio-sostenibile-tra-salute-umana-animale-ed-ecosistemi)
 5. [AI](#5-ai-in-sanita-innovazione-e-sostenibilita-per-la-salute)
-6. [Cybersecurity](#6-Cybersecurity)
+6. [Cybersecurity](#6-Cybersecurity-prevenire-le-minacce-garantire-la-fiducia)
 7. [Formazione e UX](#7-Formazione-degli-operatori-sanitari-e-User-Experience)
    
-### 1 Governance e Coordinamento Centralizzato: oltre le disparità regionali
+### 1. Governance e Coordinamento Centralizzato: oltre le disparità regionali
 Sebbene per superare la frammentazione e le disparità regionali, si ritenga necessaria una "cabina di regia", non è auspicabile la costituzione di un nuovo ente pubblico, poiché ne esistono attualmente almeno tre, a una prima lettura ridondanti, che si occupano di digitalizzazione del paese: il “Dipartimento per la trasformazione digitale”, AgID e AGENAS [^5]. Mentre auspichiamo una razionalizzazione di queste agenzie, tramite un accorpamento, sic stantibus rebus, proponiamo, per prossimità di dominio, di rafforzare il ruolo di **AGENAS** che dovrebbe così diventare l'unico ente responsabile, in ambito SD, della definizione di standard tecnologici univoci per tutta la nazione e del coordinamento tra Regioni [^6]. Infatti, nonostante i diversi modelli sanitari regionali, che presuppongono processi affatto differenti tra loro, l'interoperabilità dei sistemi deve essere garantita. In via ipotetica gli standard sono stabiliti anche nelle gare ad evidenza pubblica, manca però il controllo dell'effettiva implementazione di tali standard, che spesso sono più di processo che non squisitamente tecnici. Un esempio concreto è l'adozione di un'unica architettura per il Fascicolo Sanitario Elettronico (FSE) e per la Cartella Clinica Elettronica (CCE), che definisca standard minimi di dati da scambiare tra tutte le Regioni [^7]. Ad AGENAS verrebbe affidato anche il compito di monitorare l'avanzamento dei progetti di SD in ogni Regione, valutando l'efficacia degli investimenti e l'effettivo utilizzo delle tecnologie. Ottenere una vera cabina di regia con compiti di governance, quindi, indirizzo, coordinamento, controllo e regolazione centralizzati può risultare da un inquadramento corretto ed eventuale estensione dei compiti di AGENAS.
 
-### 2 Implementazione di strumenti digitali core 
+### 2. Implementazione di strumenti digitali core 
 La **digitalizzazione è uno strumento abilitante**, introduce nuove tecnologie e le utilizza per facilitare e migliorare i processi, le cure e la gestione del sistema sanitario. La digitalizzazione può (e dovrebbe) coinvolgere praticamente ogni ambito della sanità. L'efficienza del sistema dipende da strumenti digitali solidi e interoperabili. Fondamentale è la presenza dei dati strutturati [^9]. L'uso di dati strutturati offre infatti numerosi vantaggi per la sanità digitale:
 
 * Interoperabilità: Permette a sistemi informatici diversi (ospedali, laboratori, medici di base) di scambiare e comprendere le informazioni in modo univoco.
@@ -101,7 +101,7 @@ Infine gli strumenti di __Business Intelligece__ (BI) e __Data Analytics__ (DA),
 * La __DA__ va oltre il semplice monitoraggio e si concentra sul "perché" e sul "cosa accadrà". Utilizza modelli statistici e di machine learning per estrarre insight più profondi. Le sue applicazioni vanno dalla medicina predittiva e di precisione (con l'uso di dati genetici, stili di vita, anamnesi) alla pianificazione strategica (previsioni di picchi di accesso al pronto soccorso, allocazione delel risorse, approvvigionamenti, uso in ricerca biomedica ecc.)
 
 
-### 3 Adozione e sviluppo della Telemedicina: accessibilità e sostenibilità
+### 3. Adozione e sviluppo della Telemedicina: accessibilità e sostenibilità
 La __Telemedicina__ è l'uso di tecnologie di telecomunicazione e informatiche per fornire servizi di assistenza sanitaria a distanza [^13]. Non è una singola tecnologia o servizio, ma un campo vasto e in evoluzione che può arrivare a comprendere molte attività cliniche svolte al di fuori del tradizionale contesto in presenza, offrendo un'opportunità unica per __migliorare le cure e ottimizzare le risorse__. È importante però dare una definizione più accurata di cosa si intenda davvero con telemedicina. Infatti se ne dà una valutazione spesso limitata alla televisita e al teleconsulto.
 
 * __Televisita__: È la forma più comune di telemedicina, una visita medica in tempo reale che avviene tramite videochiamata tra un medico e un paziente. Consente un'interazione bidirezionale e una valutazione clinica a distanza, pur non sostituendo l'esame fisico diretto.
@@ -111,7 +111,7 @@ La __Telemedicina__ è l'uso di tecnologie di telecomunicazione e informatiche p
 * __Terapia Digitale (Digital Therapeutics - DTx)__: Si tratta di una categoria di prodotti software che forniscono interventi terapeutici basati sull'evidenza clinica per prevenire, gestire o trattare una specifica condizione medica. A differenza della telemedicina, che facilita la comunicazione, le terapie digitali agiscono come un trattamento autonomo, ma possono essere usate in combinazione con la telemedicina per supportare il paziente. Per poter essere usati necessitano di validazione clinica [^14]. 
 * __Infusione di farmaci da remoto__: attualmente si tratta di applicazioni sperimentali che rientrano nei principi della telemedicina, ma anche della robotica. Si tratta di sistemi che permettono l'infusione di farmaci in modo automatico e sotto il controllo di un professionista sanitario a distanza. È una delle frontiere future della telemedicina, applicata soprattutto in contesti specializzati ad alta tecnologia [^15].
 
-### 4 One Health: equilibrio sostenibile tra salute umana, animale ed ecosistemi
+### 4. One Health: equilibrio sostenibile tra salute umana, animale ed ecosistemi
 L’approccio one-health è un __approccio integrato e collaborativo che riconosce l'indissolubile connessione tra la salute degli esseri umani, la salute degli animali e la salute degli ecosistemi__.
 La One-Health richiede l’integrazione con i sistemi di sorveglianza e con le informazioni epidemiologiche tradizionalmente utilizzati per monitorare morbosità e mortalità delle malattie trasmissibili.
 Le tecnologie digitali per la salute fungono da strumenti e infrastrutture essenziali che rendono possibile la visione collaborativa e integrata del modello One-Health.
@@ -135,7 +135,7 @@ Analizzando questi dati integrati, algoritmi di Intelligenza Artificiale (AI) e 
 * __Telemedicina e monitoraggio remoto__: Le soluzioni di telehealth estendono l’accesso all’assistenza sanitaria (umana e animale) anche in aree remote. Questo è particolarmente importante per popolazioni svantaggiate e per il monitoraggio della fauna selvatica o del bestiame in contesti rurali, offrendo una visione più completa della salute di tutte le specie e degli ambienti.
 * __Citizen Science__: Strumenti digitali e app mobili consentono al pubblico di partecipare alla raccolta dati, segnalando comportamenti insoliti negli animali, fauna selvatica morta o problemi ambientali. Questo “crowdsourcing” dei dati aggiunge un ulteriore livello di sorveglianza e coinvolgimento della comunità all’interno del framework One Health.
 
-### 5 AI in sanità: innovazione e sostenibilità per la salute
+### 5. AI in sanità: innovazione e sostenibilità per la salute
 L'uso dell'IA in sanità è in rapida crescita e sta rivoluzionando diversi settori, dalla ricerca clinica alla gestione quotidiana degli ospedali. L'IA non sostituisce i professionisti, ma agisce come un potente strumento per renderli più efficienti e migliorare i risultati per i pazienti.
 L'uso dell'Intelligenza Artificiale in sanità solleva importanti questioni etiche che non possono essere ignorate [^16]. Se da un lato l'IA promette di migliorare l'assistenza, dall'altro introduce nuove sfide su come viene sviluppata e applicata in modo responsabile. Si rimanda ad altri PP specifici sul tema e al _PP generale del GT Sanità_.
 
@@ -159,7 +159,7 @@ L'IA è utilizzata per creare chatbot sanitari che possono rispondere a domande 
 __Chirurgia robotica__
 I sistemi robotici basati su IA sono la prossima frontiera. Ai fini del presente documento si citano solo in termini di potenzialità. I campi di applicazione, ad esempio, pianificazione e navigazione chirurgica (l'IA può analizzare esami diagnostici (come TC o risonanze magnetiche) per creare una mappa 3D dettagliata dell'anatomia del paziente. Questo aiuta il chirurgo a pianificare il percorso operatorio in modo più preciso, identificando strutture critiche.) e guida intraoperatoria: (l'IA agisce come un "co-pilota", aumentando la sicurezza e la precisione della procedura).
 
-### 6 Cybersecurity 
+### 6. Cybersecurity: prevenire le minacce, garantire la fiducia 
 La digitalizzazione espone i dati sanitari a rischi di attacchi informatici, dati USA parlano del 60% delle strutture sanitarie colpite da violazioni via mail nel 2024 (molti casi non vengono diffusi al pubblico [^17]).
 È indispensabile investire in sistemi di cybersecurity robusti e aggiornati, con procedure di gestione delle minacce e di protezione dei dati rigorose. La fiducia dei cittadini nel sistema digitale e la salute dipendono interamente dalla garanzia della privacy e della sicurezza dei loro dati. 
 Sul tema della Cybersecurity, si rimanda al _PP Generale del GT Sanità_.
@@ -426,6 +426,7 @@ _Sistemi di Infusione Smart_: pompe per infusione "intelligenti" che, pur non es
 [^22]: Europe Digital MArket and Size https://www.mordorintelligence.com/industry-reports/europe-digital-health-market  || https://www.marketresearchfuture.com/reports/italy-digital-healthcare-market-43945  a modesto parere dello scrivente e per report e analisi di mercato soggette a riservatezza che non possono essere qui rappresentate, queste cifre sono completamente "sballate". Un problema, ad esempio, è quello della tassonomia e di cosa vada riconpreso nella definizione eHealth (alcuni studi di mercato includono nella sanità digitale anche gli investimenti per l'acquisto delle licenze dei sistemi operativi, tipo Windows...).
 
 [^23]: Per comprendere la dimensione attuale dell'AI in sanità (pubblica) si consideri che ad oggi sono stati bandite due gare Consip di "Sanità digitale" - all'interno del PNRR, Missione 6 - dedicate all'AI una, nel 2023 per circa €450 milioni (parte inclusiva AI), l'altra nel 2025 per complessivi €660 milioni circa. Un totale di circa € 1.1 miliardi spalmati in più anni e, in entrambi i casi l'AI è una parte del capitolato, gli importi strettamente dedicati all'AI sono quindi inferiori. https://www.consip.it/bandi/gara-sanita-digitale-sistemi-informativi-gestionali || https://www.consip.it/bandi/sanita-digitale-data-governance-e-artificial-intelligence || Si veda anche https://ai-watch.ec.europa.eu/countries/italy/italy-ai-strategy-report_en
+
 
 
 
