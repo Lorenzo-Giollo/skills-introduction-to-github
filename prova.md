@@ -63,10 +63,10 @@ La digitalizzazione offre risposte efficaci a tutti questi fattori, come spiegat
 
 
 ## Proposta
-1. [Attribuzione delle funzioni di regia, controllo e monitoraggio](#1-Governance-e-Coordinamento-Centralizzato) ad AGENAS
-2. Implementazione di strumenti digitali core: [Fasciolo sanitario elettronico, cartella clinica elettronica, CUP, Business analytics](#2-Implementazione-di-strumenti-digitali-core).
+1. [Attribuzione delle funzioni di regia, controllo e monitoraggio](#1-Governance-e-Coordinamento-Centralizzato)
+2. [Fasciolo sanitario elettronico, cartella clinica elettronica, CUP, Business analytics](#2-Implementazione-di-strumenti-digitali-core).
 3. [Telemedicina](#3-Adozione-e-sviluppo-della-Telemedicina)
-4. One Health
+4. [One Health](#4-one-health-equilibrio-sostenibile-tra-salute-umana-animale-ed-ecosistemi)
 5. AI
 6. Cybersecurity
 7. Formazione degli operatori sanitari e User Experience
@@ -111,9 +111,9 @@ La __Telemedicina__ è l'uso di tecnologie di telecomunicazione e informatiche p
 * __Terapia Digitale (Digital Therapeutics - DTx)__: Si tratta di una categoria di prodotti software che forniscono interventi terapeutici basati sull'evidenza clinica per prevenire, gestire o trattare una specifica condizione medica. A differenza della telemedicina, che facilita la comunicazione, le terapie digitali agiscono come un trattamento autonomo, ma possono essere usate in combinazione con la telemedicina per supportare il paziente. Per poter essere usati necessitano di validazione clinica [^14]. 
 * __Infusione di farmaci da remoto__: attualmente si tratta di applicazioni sperimentali che rientrano nei principi della telemedicina, ma anche della robotica. Si tratta di sistemi che permettono l'infusione di farmaci in modo automatico e sotto il controllo di un professionista sanitario a distanza. È una delle frontiere future della telemedicina, applicata soprattutto in contesti specializzati ad alta tecnologia [^15].
 
-### 4. One-Health
+### 4 One Health: equilibrio sostenibile tra salute umana, animale ed ecosistemi
 L’approccio one-health è un __approccio integrato e collaborativo che riconosce l'indissolubile connessione tra la salute degli esseri umani, la salute degli animali e la salute degli ecosistemi__.
-Lo One-Health richiede l’integrazione con i sistemi di sorveglianza e con le informazioni epidemiologiche tradizionalmente utilizzati per monitorare morbosità e mortalità delle malattie trasmissibili.
+La One-Health richiede l’integrazione con i sistemi di sorveglianza e con le informazioni epidemiologiche tradizionalmente utilizzati per monitorare morbosità e mortalità delle malattie trasmissibili.
 Le tecnologie digitali per la salute fungono da strumenti e infrastrutture essenziali che rendono possibile la visione collaborativa e integrata del modello One-Health.
 Il collegamento principale è che la SD fornisce i dati, le capacità comunicative e analitiche necessarie per rendere operativo l’approccio One-Health.
 
@@ -426,6 +426,7 @@ _Sistemi di Infusione Smart_: pompe per infusione "intelligenti" che, pur non es
 [^22]: Europe Digital MArket and Size https://www.mordorintelligence.com/industry-reports/europe-digital-health-market  || https://www.marketresearchfuture.com/reports/italy-digital-healthcare-market-43945  a modesto parere dello scrivente e per report e analisi di mercato soggette a riservatezza che non possono essere qui rappresentate, queste cifre sono completamente "sballate". Un problema, ad esempio, è quello della tassonomia e di cosa vada riconpreso nella definizione eHealth (alcuni studi di mercato includono nella sanità digitale anche gli investimenti per l'acquisto delle licenze dei sistemi operativi, tipo Windows...).
 
 [^23]: Per comprendere la dimensione attuale dell'AI in sanità (pubblica) si consideri che ad oggi sono stati bandite due gare Consip di "Sanità digitale" - all'interno del PNRR, Missione 6 - dedicate all'AI una, nel 2023 per circa €450 milioni (parte inclusiva AI), l'altra nel 2025 per complessivi €660 milioni circa. Un totale di circa € 1.1 miliardi spalmati in più anni e, in entrambi i casi l'AI è una parte del capitolato, gli importi strettamente dedicati all'AI sono quindi inferiori. https://www.consip.it/bandi/gara-sanita-digitale-sistemi-informativi-gestionali || https://www.consip.it/bandi/sanita-digitale-data-governance-e-artificial-intelligence || Si veda anche https://ai-watch.ec.europa.eu/countries/italy/italy-ai-strategy-report_en
+
 
 
 
