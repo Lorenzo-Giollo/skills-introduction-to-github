@@ -1,9 +1,3 @@
-[Link all'intestazione](#some-heading)
-
-...un sacco di roba qui...
-
-
-
 # Position Paper
 ## Titolo
 Sanità Digitale (SD) (digital health)
@@ -69,7 +63,12 @@ La digitalizzazione offre risposte efficaci a tutti questi fattori, come spiegat
 
 
 ## Proposta
-1. Attribuzione delle funzioni di regia, controllo e monitoraggio ad AGENAS
+[Link all'intestazione](#some-heading)
+
+...un sacco di roba qui...
+
+### Some-Heading
+1. [Attribuzione delle funzioni di regia, controllo e monitoraggio ad AGENAS](#Governance-e-Coordinamento-Centralizzato)
 2. Implementazioni strumenti digitali core: Fasciolo sanitario elettronico, cartella clinica elettronica, CUP, Business analytics.
 3. Telemedicina
 4. One Health
@@ -77,7 +76,7 @@ La digitalizzazione offre risposte efficaci a tutti questi fattori, come spiegat
 6. Cybersecurity
 7. Formazione degli operatori sanitari e User Experience
    
-### 1. Governance e Coordinamento Centralizzato
+### Governance e Coordinamento Centralizzato
 Sebbene per superare la frammentazione e le disparità regionali, si ritenga necessaria una "cabina di regia", non è auspicabile la costituzione di un nuovo ente pubblico, poiché ne esistono attualmente almeno tre, a una prima lettura ridondanti, che si occupano di digitalizzazione del paese: il “Dipartimento per la trasformazione digitale”, AgID e AGENAS [^5]. Mentre auspichiamo una razionalizzazione di queste agenzie, tramite un accorpamento, sic stantibus rebus, proponiamo, per prossimità di dominio, di rafforzare il ruolo di **AGENAS** che dovrebbe così diventare l'unico ente responsabile, in ambito SD, della definizione di standard tecnologici univoci per tutta la nazione e del coordinamento tra Regioni [^6]. Infatti, nonostante i diversi modelli sanitari regionali, che presuppongono processi affatto differenti tra loro, l'interoperabilità dei sistemi deve essere garantita. In via ipotetica gli standard sono stabiliti anche nelle gare ad evidenza pubblica, manca però il controllo dell'effettiva implementazione di tali standard, che spesso sono più di processo che non squisitamente tecnici. Un esempio concreto è l'adozione di un'unica architettura per il Fascicolo Sanitario Elettronico (FSE) e per la Cartella Clinica Elettronica (CCE), che definisca standard minimi di dati da scambiare tra tutte le Regioni [^7]. Ad AGENAS verrebbe affidato anche il compito di monitorare l'avanzamento dei progetti di SD in ogni Regione, valutando l'efficacia degli investimenti e l'effettivo utilizzo delle tecnologie. Ottenere una vera cabina di regia con compiti di governance, quindi, indirizzo, coordinamento, controllo e regolazione centralizzati può risultare da un inquadramento corretto ed eventuale estensione dei compiti di AGENAS.
 
 ### 2. Implementazione di strumenti digitali core 
@@ -377,7 +376,6 @@ Questi sistemi sono progettati per interagire direttamente con i pazienti e per 
 
 
 
-### Some-Heading
 
 
 
@@ -433,6 +431,7 @@ _Sistemi di Infusione Smart_: pompe per infusione "intelligenti" che, pur non es
 [^22]: Europe Digital MArket and Size https://www.mordorintelligence.com/industry-reports/europe-digital-health-market  || https://www.marketresearchfuture.com/reports/italy-digital-healthcare-market-43945  a modesto parere dello scrivente e per report e analisi di mercato soggette a riservatezza che non possono essere qui rappresentate, queste cifre sono completamente "sballate". Un problema, ad esempio, è quello della tassonomia e di cosa vada riconpreso nella definizione eHealth (alcuni studi di mercato includono nella sanità digitale anche gli investimenti per l'acquisto delle licenze dei sistemi operativi, tipo Windows...).
 
 [^23]: Per comprendere la dimensione attuale dell'AI in sanità (pubblica) si consideri che ad oggi sono stati bandite due gare Consip di "Sanità digitale" - all'interno del PNRR, Missione 6 - dedicate all'AI una, nel 2023 per circa €450 milioni (parte inclusiva AI), l'altra nel 2025 per complessivi €660 milioni circa. Un totale di circa € 1.1 miliardi spalmati in più anni e, in entrambi i casi l'AI è una parte del capitolato, gli importi strettamente dedicati all'AI sono quindi inferiori. https://www.consip.it/bandi/gara-sanita-digitale-sistemi-informativi-gestionali || https://www.consip.it/bandi/sanita-digitale-data-governance-e-artificial-intelligence || Si veda anche https://ai-watch.ec.europa.eu/countries/italy/italy-ai-strategy-report_en
+
 
 
 
